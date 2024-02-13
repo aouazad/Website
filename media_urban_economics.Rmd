@@ -1,0 +1,365 @@
+---
+title: "Media Coverage"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+___
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NYT.png){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Climate Risk in the Housing Market Has Echoes of Subprime Crisis, Study Finds
+[Link to the Newspaper](https://www.nytimes.com/2019/09/27/climate/mortgage-climate-risk.html)
+By Christopher Flavelle, Published Sept. 27, 2019
+:::
+  
+:::
+
+WASHINGTON — Banks are shielding themselves from climate change at taxpayers’ expense by shifting riskier mortgages — such as those in coastal areas — off their books and over to the federal government, new research suggests.
+
+The findings echo the subprime lending crisis of 2008, when unexpected drops in home values cascaded through the economy and triggered recession. One difference this time is that those values would be less likely to rebound, because many of the homes literally would be underwater.
+
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NYT.png){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Rising Seas Threaten an American Institution: The 30-Year Mortgage
+[Link to the Newspaper](https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html)
+By Christopher Flavelle, Published June 19, 2020
+
+:::
+  
+:::
+
+WASHINGTON — Up and down the coastline, rising seas and climate change are transforming a fixture of American homeownership that dates back generations: the classic 30-year mortgage.
+
+Home buyers are increasingly using mortgages that make it easier for them to stop making their monthly payments and walk away from the loan if the home floods or becomes unsellable or unlivable. More banks are getting buyers in coastal areas to make bigger down payments — often as much as 40 percent of the purchase price, up from the traditional 20 percent — a sign that lenders have awakened to climate dangers and want to put less of their own money at risk.
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/HW.PNG){width=150px}
+:::
+
+::: {.column width="75%"}
+## The $7 trillion climate question facing Fannie and Freddie
+[Housing Wire](https://www.housingwire.com/articles/the-7-trillion-climate-question-facing-fannie-and-freddie/)
+By Ted Jackson, June 30, 2021.
+  
+:::
+
+:::
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/politico.png){width=150px}
+:::
+  
+::: {.column width="75%"}
+## How climate change could spark the next home mortgage disaster
+[Link to the Website](https://www.politico.com/news/2020/11/30/climate-change-mortgage-housing-environment-433721)
+By Zack Colman, 11/30/2020
+
+:::
+  
+:::
+
+With its lively parks and colorful bungalows, Hialeah, Fla., has been the gateway to the American middle class for thousands of Cuban immigrants.
+
+Hialeah was the place where home ownership, an unattainable goal under the Communist regime of their homeland, became a reality. And as in many American communities — rich and poor, of every ethnic makeup — the American dream for families in Hialeah was helped along by the taxpayer-funded mortgage giants, Fannie Mae and Freddie Mac. Their willingness to purchase the loans on homes in the area provides local lenders with a steady flow of cash to invest in the community.
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/politico.png){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Borrowed time: Climate change threatens U.S. mortgage market
+[Link to the Website](https://www.politico.com/states/new-york/albany/story/2020/06/07/borrowed-time-climate-change-threatens-us-mortgage-market-1291552)
+By Zack Colman and KATY O'DONNELL, 06/07/2020
+
+:::
+  
+:::
+
+WASHINGTON — U.S. taxpayers could be on the hook for billions of dollars in climate-related property losses as the government backs a growing number of mortgages on homes in the path of floods, fires and extreme weather.
+
+Violent storms and sunny-day flooding are on the rise, and more houses are being built on at-risk land. But fewer people are buying federally backed flood insurance despite requirements that homeowners in flood plains be insured if their mortgage is backed by taxpayers.
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/insidemortgagefinance.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Researchers Find Climate-Driven Changes in MBS Deliveries
+[Link to the website](https://www.insidemortgagefinance.com/articles/228062-researchers-find-climate-driven-changes-in-mbs-deliveries?v=preview)
+by Dennis Hollier, June 9th, 2023
+  
+:::
+
+:::
+The economists used the government-sponsored enterprises’ conforming loan limits to examine lenders’ choices in the wake of a significant disaster.
+
+____
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_KyfItPRfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+___
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Climate_now.png){width=150px}
+:::
+
+::: {.column width="75%"}
+
+## Housing Market Climate Risk with Amine Ouazad
+[Climate Now Podcast](https://climatenow.com/podcast/housing-market-climate-risk-with-amine-ouazad/), June 10, 2021.
+
+:::
+
+:::
+
+Dr. Amine Ouazad speaks with Climate Now about how climate could spark the next financial crisis.
+
+Sea levels are rising, storms are worsening, and flooding is consistently exceeding FEMA’s 100-year floodplain maps. Yet, an increasing percentage of new mortgages are used to purchase homes in at-risk areas. And lenders are selling mortgages in areas hit by hurricanes at higher rates to Fannie Mae and Freddie Mac, who are backed by American taxpayers, according to research done by Dr. Amine Ouazad, Professor of Economics at HEC Montreal.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Bloomberg.png){width=150px}
+:::
+  
+::: {.column width="75%"}
+## When Climate Change Leads to Mortgage Defaults
+[Link to the Website](https://www.politico.com/states/new-york/albany/story/2020/06/07/borrowed-time-climate-change-threatens-us-mortgage-market-1291552)
+Simple steps to make sure lenders and homebuyers — not taxpayers — bear the risk.
+By Matthew E. Kahn and Amine Ouazad
+October 3, 2019.
+
+:::
+  
+:::
+
+Climate change poses risks to real estate that homebuyers may not be able to predict. As sea level rises, coastal properties, for example, may be subject to increased flooding and intensifying storm surges. First-time homebuyers often lack the expertise to evaluate these new risks, and thus tend to underestimate them and overpay for increasingly exposed properties.
+
+Unfortunately, the risks they accept are not borne by themselves alone. Rather, our research has found, it is shared by mortgage lenders and, through the operations of Freddie Mac and Fannie Mae, American taxpayers.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Vice_news.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## A 'Big Short' Investor's New Bet: Climate Change Will Bust the Housing Market
+[](https://www.vice.com/en/article/wjwyy9/a-big-short-investors-new-bet-climate-change-will-bust-the-housing-market)
+By Geoff Dembicki, November 1, 2019.
+  
+:::
+
+:::
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## The Housing Bubble also left our neighborhoods more segregated
+[Bloomberg Citylab](http://www.citylab.com/housing/2014/09/the-housing-bubble-also-left-our-neighborhoods-more-segregated/380435/)
+By Geoff Dembicki, November 1, 2019.
+  
+:::
+
+:::
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/business_insider.PNG){width=150px}
+:::
+
+::: {.column width="75%"}
+## Black homeowners pushed out of one Baltimore block show how Wall Street banks failed to lend money they had promised, a Bloomberg investigation shows
+[Business Insider](https://www.businessinsider.com/wall-street-banks-promises-to-boost-black-homeownership-fall-short-2022-12)
+By Alcynna Lloyd Dec 26, 2022, 10:15 AM.
+  
+:::
+
+:::
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Mapping the Density of Baltimore's Vacant-Housing Crisis
+[Bloomberg CityLab](http://www.citylab.com/housing/2015/05/mapping-the-density-of-baltimores-vacant-housing-crisis/394196/), May 27, 2015.
+
+:::
+
+:::
+
+___
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+
+## How Real-Estate Brokers Can Profit From Racial Tipping Points
+[Bloomberg CityLab](http://www.citylab.com/housing/2015/03/how-real-estate-brokers-can-profit-from-racial-tipping-points/386674/)”, Mar 3, 2015.
+
+:::
+
+:::
+
+___
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Grist.png){width=150px}
+:::
+
+::: {.column width="75%"}
+
+## Holding the Bill
+Insurance companies and lenders are responding to climate change — by shifting risk to taxpayers.
+[Grist](https://grist.org/climate/insurance-companies-and-lenders-are-responding-to-climate-change-by-shifting-risk-to-taxpayers/), Mar 04, 2020.
+By Naveena Sadasivam, Senior Staff Writer.
+
+:::
+
+:::
+
+___
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/WSJ.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+
+## Banks Move Flood-Based Mortgage Risks Out of Private Sector: Paper
+[Wall Street Journal, October 2, 2019](https://www.wsj.com/articles/banks-move-flood-based-mortgage-risks-out-of-private-sector-paper-11570024428)
+
+:::
+
+:::
+___
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/WP.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [How the housing market increased segregation](https://www.washingtonpost.com/blogs/ezra-klein/post/how-the-housing-bubble-increased-segregation/2012/03/16/gIQANnxVGS_blog.html)”
+Washington Post, March 16, 2012.
+
+:::
+
+:::
+
+___
+
+## Boston Globe
+
+In [Have Trade Deals Been a Disaster? Moving on up. . . with each other](https://www.bostonglobe.com/ideas/2016/04/02/have-trade-deals-been-disaster/YzzMmIeLQx4wFgSdCtt8EL/story.html)
+
+___
+
+## Huffington Post
+
+[Le logement, premier actif des Français et source majeure d'inégalités de richesse](http://www.huffingtonpost.fr/amine-ouazad/prix-de-limmobilier-investissement_b_12190974.html)
+
+___
+
+## National Affairs
+
+[Findings: a Daily Round Up of Academic Studies: Serious, Sublime, Surreal, or Otherwise](http://www.nationalaffairs.com/blog/blogger/findings-a-daily-roundup).
+
+___
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/WSJ.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## How the housing market increased segregation
+
+Wall Street Journal, Real Time Economics, March 16, 2012.
+:::
+
+:::
+
+___
+
+## Voxeu.org
+
+[Did the mortgage credit boom contribute to the decline in US racial segregation?](http://www.voxeu.org/article/did-mortgage-credit-boom-contribute-decline-us-racial-segregation)
+
+___
+
+

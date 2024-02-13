@@ -1,0 +1,56 @@
+---
+title: "Media - Economics of Education"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+___
+
+## Washington Post
+In Valerie Strauss's Answer Sheet: [The Troubling Shortage of Latino and black teachers — and what to do about it.](https://www.washingtonpost.com/news/answer-sheet/wp/2016/05/15/the-troubling-shortage-of-latino-and-black-teachers-and-what-to-do-about-it/)
+
+![](http://www.ouazad.com/files/wapoheader_strauss_ouazad.jpg)
+
+___
+
+## Le Monde
+
+Cited by Le Monde on the U.S. student loan crisis: ["Prêts Etudiants aux Etats-Unis: les Nouveaux Subprimes?"](http://www.lemonde.fr/ameriques/article/2012/07/10/toujours-plus-de-prets-etudiants-aux-etats-unis_1728495_3222.html).
+
+___
+
+## CentrePiece Magazine
+
+[“In Brief: Assessed by a Teacher Like Me.”](http://cep.lse.ac.uk/CentrePiece/abstract.asp?index=3418) on the paper published in Education Finance and Policy.
+["Pupils' Progress: How Children's Perceptions Influence their Effort"](http://cep.lse.ac.uk/pubs/download/cp359.pdf) Feature based on the paper “Students’ Perceptions of Teacher Biases: Experimental Economics in Schools”, joint with Lionel Page, published in the Journal of Public Economics, Volume 103, September 2013.
+
+___
+
+## France 24
+
+“French Education Reform: The End of History?”
+
+___
+
+## Telos
+
+“Statistiques Ethniques: Sortir des Faux Debats.”
+
+___
+
+## U.S. Academy of Science 
+
+<iframe src="https://player.vimeo.com/video/33252644" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/33252644">Social Interaction - Amine Ouazad, INSEAD</a> from <a href="https://vimeo.com/kfos">Kavli Frontiers of Science</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+___
+
+## Other
+
+Forbes India, Daily Mail, Daily Telegraph (shows journalists' various levels of understanding of the research paper; please read the Journal of Public Economics publication before reading the news coverage).
+
+___
+
+

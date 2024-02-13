@@ -1,0 +1,176 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+___
+
+
+I have taught more than 2030 students in my career, in undergraduate, MBA, Executive MBA, PhD, MSc programs. Here is what students say:
+
+* "Notions that will definitely be of great use in our professional lives."
+* "Completely valuable for future managerial positions."
+* "Cases and examples were really diversified."
+* "Excellent coverage of global issues."
+* "Very international."
+
+Please find below some of the open access resources related to my courses.
+
+## {.tabset}
+
+
+### Urban Economics
+
+
+#### Urban and Real Estate Economics for Masters Students
+
+I have taught this course at Ecole Polytechnique (Paris) in the Masters program.
+
+[Syllabus](https://www.dropbox.com/s/8zwblzrtgjuesvn/Master%20in%20Economics%20-%20Syllabus.pdf?dl=0)
+
+Get yourself a copy of [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [QGIS](http://www.qgis.org/en/site/).
+
+___
+
+##### Session 1: World Urbanization, Urbanization without Growth
+
+[Lecture slides 1](https://www.dropbox.com/s/stzfcqqgs9td11o/session-1-handout.pdf?dl=0)
+
+[Assignment 1](https://www.dropbox.com/s/cgaxidiye38jvsl/assignment1.pdf?dl=0), due Feb 6.
+
+___
+
+##### Session 2: City Size Distribution
+
+[Lecture slides 2](https://www.dropbox.com/s/0nhfngd933o8j9s/session-2-handout.pdf?dl=0)
+
+Assignment 2, due Feb 13 midnight, is described in lecture slides 2 (last slide).
+
+An [R notebook I designed](http://rpubs.com/aouazad/zipfslaw) to assess Zipf's law for cities using simple R code.
+
+The data for the notebook is here: [Data folder for Zipf Law analysis](http://ouazad.com/urbanecondata/session2_zipf/)
+
+___
+
+##### Session 3: Location Choice and Hedonic Pricing
+
+[Lecture slides 3](https://www.dropbox.com/s/htbuybg24f1wo9s/session3.pdf?dl=0) (Updated !)
+
+Assignment 3, due Feb 28 midnight, is described in lecture slides 3 (last slide).
+
+I designed an R notebook, [available here](http://www.ouazad.com/urbanecondata/assignment3_monocentric/New_York_nb.html), that describes an analyis of the final question, the distance to the Central Business District and house prices.
+
+___
+
+##### Session 4: Housing Supply, Land Use Regulations, Geography
+
+[Lecture 4](https://www.dropbox.com/s/6bjvr6om8zr6f44/session4-housingsupply.pptx?dl=0)
+
+___
+
+##### Session 5: Who Lives Where? Segregation and Gentrification
+
+[Lecture 5](https://www.dropbox.com/s/7x2uslph86q3kkh/Session5.pdf?dl=0)
+
+___
+
+##### Session 6: Mortgage Finance and the Housing Boom and Bust
+
+[Lecture 6](https://www.dropbox.com/s/ylva3s9udr2kly3/Session6.pptx?dl=0)
+
+___
+
+### Master of Business Administration
+
+___
+
+#### [Prices & Markets - INSEAD MBA Core Course](http://www.ouazad.com/Courses/MBA-PM)
+
+> This course analyzes the economics of managerial decision making. Our focus is on the economic fundamentals of businesses and industries: production and costs; demand for the product; production and pricing strategies; market equilibrium; competition between industry participants; and strategic decision making. The managerial decisions that we will address include price discrimination, capacity management, entry and exit decisions, and using strategic commitment.
+
+
+___
+
+### PhD in Management
+
+_INSEAD offers a full PhD program in all business fields: finance, technology and operations management, marketing, organizational behavior, strategy, entrepreneurship. I teach the PhD core course in econometrics; the course is the single entry point of all PhD students wishing to use data in their research. Through the PhD program I have made life-long friends with PhD students who became faculty in the best international universities and business schools._
+
+___
+
+
+```{r, echo=FALSE}
+#library(Quandl)
+#Quandl.api_key("NFWV2eAJavk-5o6_J_k1");
+```
+
+#### [Econometrics A](http://www.ouazad.com/PhD-Econometrics/)
+
+> Identification and Inference in Linear Econometrics, natural experiments, instrumental variables.
+
+Resources: [Website](http://www.ouazad.com/PhD-Econometrics/) (joint A&B) and [Syllabus](https://www.dropbox.com/s/k2wr2egx47pbrry/PhD_Econometrics_A_syllabus.pdf?dl=1).
+
+___
+
+#### [Econometrics B](http://www.ouazad.com/PhD-Econometrics/)
+
+> Structural Econometrics, Maximum Likelihood, and the Generalized Method of Moments
+
+Resources: [Website](http://www.ouazad.com/PhD-Econometrics/) (joint A&B) and [Syllabus](https://www.dropbox.com/s/rniiv0zo9kjfw6v/PhD_Econometrics_B_syllabus.pdf?dl=1).
+
+___
+
+#### [Advanced Econometrics](http://www.ouazad.com/PhD-Econometrics/)
+
+> Identification and Estimation of Models of Demand for Differentiated Products
+
+Resources: [Syllabus](https://www.dropbox.com/s/m3e64zwo61gi9vk/PhD_Microeconometrics_syllabus.pdf?dl=1).
+
+___
+
+#### PhD Microeconomics C
+
+> Advanced Game Theory, Auction Design
+
+___
+
+### Global Executive MBA INSEAD
+
+_The Financial Times ranks the INSEAD Global Executive MBA as its highest-ranked, single-school Programme – 7th in the world in 2015, while the Tsinghua - INSEAD EMBA (TIEMBA) is ranked in 1st place. I teach the economics core course of GEMBA students, and supervise their annual student project._
+
+___
+
+#### [Prices and Markets Microeconomics Course](http://www.ouazad.com/GEMBA/)
+
+> Over four half days we study the essential elements of effective pricing -- and we see so many wrong pricing strategies. Most importantly, the classroom is a safe space to brainstorm the most essential pricing frameworks, used by companies from Google and eBay to Walmart and Redmart.
+
+#### Global Executive MBA — Student Projects
+
+> I helped students set up an investment brokerage firm in Nigeria, a water management company in Lebanon, an education start-up in Azerbaijan, and an outplacement company in the Netherlands.
+
+### Law and Economics
+
+#### LLM in international Business Law
+
+> I teach business economics seminars in the one-year LLM in International Business Law (Droit International des Affaires). The degree is intended for those with a masters degree in law or business and at least four years professional experience. The degree will prepare them to handle large-scale transactions such as cross-border mergers, major acquisitions, stock-market operations, financial engineering and leveraged buyouts. In class we use the tools of economics to understand legal issues of antitrust regulations, the stability of collusive agreements, the impact of market structure on prices, firms' profits, and consumer surplus.
+
+### Previously
+
+#### Sciences Po: Microeconomics
+
+> Taught two semesters of the Sciences Po microeconomics core: perfect competition, externalities, pigouvian taxes.
+
+#### New York University Abu Dhabi
+
+> Mathematics for Social Sciences, and Statistics for Social Sciences.
+
+#### ENSAE: Microeconomics
+
+> General equilibrium, demand analysis, asymmetric information and adverse selection problems.
+
+#### London School of Economics: Microeconomics
+
+> Perfect competition, externalities, pigouvian taxes, moral hazard in principal-agent models.

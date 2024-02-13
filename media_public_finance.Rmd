@@ -1,0 +1,45 @@
+---
+title: "Media - Public Finance"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+___
+
+## Bloggingheads
+
+[“Europe’s Economic Flaws”](http://bloggingheads.tv/videos/8704).
+
+___
+
+## France 24
+
+“US Debt Showdown: Who’s to blame for the deadlock?”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAR_UTs3IIk" frameborder="0" allowfullscreen></iframe>
+
+___
+
+## The National, United Arab Emirates
+
+[Long-term growth depends on a skilled workforce](http://www.ouazad.com/opinions/the-national.gif)
+
+___
+
+## Les Echos
+
+Blog “Les Echnoclastes.”
+
+___
+
+## Other
+
+Agence France Presse, Le Point, Couverture du prix nobel d’Economie 2010 attribué aux economistes du travail Diamond, Mortensen, Pissarides.
+
+___
+
+
+

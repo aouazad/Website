@@ -1,0 +1,14 @@
+---
+title: "Cities"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Redirecting you to my Blog on Cities, if the redirection doesn't happen quickly, <a href="http://www.urbanecononline.com/">click here</a>. 
+
+<meta http-equiv="refresh" content="0; url=http://www.urbanecononline.com" />
+
+

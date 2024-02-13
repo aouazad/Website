@@ -1,0 +1,25 @@
+name: "amine-charles-louis-ouazad-website"
+navbar:
+  title: "Amine Charles-Louis Ouazad"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: presentations.html
+    - text: "Media"
+      href: media_urban_economics.html
+    - text: "Maps"
+      href: maps.html
+  right:
+    - icon: ion-social-twitter
+      text: "@amine_ouazad"
+      href: https://twitter.com/amine_ouazad
+    - icon: ion-social-linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/aouazad/
+output:
+  html_document:
+    theme: readable
+    highlight: textmate

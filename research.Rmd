@@ -1,0 +1,382 @@
+---
+title: 'Research Papers'
+output: html_document
+---
+
+```{=html}
+<style>
+body {
+text-align: justify}
+</style>
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+### **Publications**
+
+------------------------------------------------------------------------
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699361) 
+January 2024.
+
+:::
+
+:::
+
+Discrete choice models with social interactions or spillovers may exhibit multiple equilibria. This paper provides a systematic approach to enumerating them for a quantitative spatial model with discrete locations, social interactions, and elastic housing supply. The approach relies on two homotopies. A homotopy is a smooth function that transforms the solutions of a simpler city where solutions are known, to a city with heterogeneous locations and finite supply elasticity. The first homotopy is that, in the set of cities with perfectly elastic floor surface supply, an economy with heterogeneous locations is homotopic to an economy with homogeneous locations, whose solutions can be comprehensively enumerated. Such an economy is epsilon close to an economy whose equilibria are the zeros of a system of polynomials. This is a well-studied area of mathematics where the enumeration of equilibria can be guaranteed. The second homotopy is that a city with perfectly elastic housing supply is homotopic to a city with an arbitrary supply elasticity. In a small number of cases, the path may bifurcate and a single path yields two or more equilibria. By running the method on thousands of cities, we obtain a large number of equilibria. Each equilibrium has different population distributions. We provide a method that is computationally feasible for economies with a large number of locations choices, with an empirical application to the City of Chicago. There exist multiple "counterfactual Chicagos" consistent with the estimated parameters. Population distribution, prices, and welfare are not uniquely pinned down by amenities. The paper's method can be applied to models in trade and IO. Further applications of algebraic geometry are suggested.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/RFS_cover.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Mortgage Finance and Climate Change: Securitization Dynamics in the Aftermath of Natural Disasters](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhab124/6427560)
+Amine Ouazad, Matthew E Kahn, _The Review of Financial Studies_, 2022.
+
+:::
+
+:::
+
+Using the government-sponsored enterprises’ sharp securitization rules, this paper provides evidence that, in the aftermath of natural disasters, lenders are more likely to approve mortgages that can be securitized, thereby transferring climate risk. The identification strategy uses the time-varying conforming loan limits above which the government-sponsored enterprises do not securitize mortgages. Natural disasters lead to more securitization right below the limit, suggesting an increased option value of securitization. A model identified using indirect inference simulates increasing disaster risk without GSEs. Mortgage credit supply would decline in flood zones and lenders would have a greater incentive to screen mortgages.
+
+[Archive with source code](https://www.dropbox.com/s/johh3u0y2b3wwz9/workflow_zipped.zip?dl=0)
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Mortgage Securitization Dynamics in the Aftermath of Natural Disasters: A Reply](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445723)
+Amine Ouazad, Matthew E Kahn, May 12, 2023.
+
+:::
+
+:::
+
+Climate change poses new risks for real estate assets. Given that the majority of home buyers use a loan to pay for their homes and the majority of these loans are purchased by the Government Sponsored Enterprises (GSEs), it is important to understand how rising natural disaster risk affects the mortgage finance market. The climate securitization hypothesis (CSH) posits that, in the aftermath of natural disasters, lenders strategically react to the GSEs conforming loan securitization rules that create incentives that foster both moral hazard and adverse selection effects. The climate risks bundled into GSE mortgage-backed securities emerge because of the complex securitization chain that creates weak monitoring and screening incentives. We survey the recent theoretical literature and empirical literature exploring screening incentive effects. Using regression discontinuity methods, we test key hypotheses presented in the securitization literature with a focus on securitization dynamics immediately after major hurricanes. Our evidence supports the CSH. We address the data construction issues posed by LaCour-Little et. al. and show that their concerns do not affect our main results. Under the current rules of the game, climate risks exacerbates the established lemons problem commonly found in loan securitization markets.
+
+[GitHub Archive](https://github.com/aouazad/Mortgage-Securitization-Natural-Disasters-Reply)
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/JET_cover.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Blockbusting: Brokers and the Dynamics of Segregation](https://www.sciencedirect.com/science/article/pii/S0022053115000393#:~:text=Blockbusting%3A%20Brokers%20and%20the%20dynamics%20of%20segregation%E2%98%86&text=In%20an%20initially%20all%2Dwhite,buyers%2C%20a%20process%20called%20blockbusting.) 
+_Journal of Economic Theory_ Volume 157, May 2015, Pages 811-841.
+
+Cited by Bloomberg CityLab.
+:::
+
+:::
+
+The paper presents a dynamic model of neighborhood segregation where fee motivated real estate brokers match sellers optimally either to minority or to white buyers. In an initially all-white neighborhood, real estate brokers thus either keep the neighborhood in a steady-state white equilibrium or trigger racial transition by matching sellers to minority buyers, a process called blockbusting. Racial transition leads to a higher rate of property turnover in the neighborhood once the fraction of minorities has reached a tipping point---but racial transition also leads to lower prices, and this is the trade-off faced by a broker. The model shows that with multiple brokers, blockbusting profit per broker is lower as brokers free ride on each other's groundbreaking efforts. The model predicts that racial transition will happen in the neighborhood when (i) the number of brokers is limited, (ii) racial preferences lie in an intermediate range, (iii) the arrival rate of offers is intermediate. Otherwise, real estate brokers steer white households toward white buyers.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/JEEA_cover.jpg){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Job Displacement, Unemployment, and Crime: Evidence from Danish Microdata and Reforms](https://academic.oup.com/jeea/article-abstract/18/5/2182/5593807)
+_Journal of the European Economic Association_ , Volume 18, Issue 5, October 2020, Pages 2182–2220. 
+
+joint with Patrick Bennett
+
+:::
+
+:::
+
+This paper matches a comprehensive Danish employer-employee data set with individual crime records from offenses to prison terms to estimate the impact of layoffs on crime. We focus on displaced individuals: high-tenure workers who lose employment during a mass-layoff event. Pre-displacement data suggest no evidence of endogenous selection of workers for displacement during mass-layoffs: first, displaced workers' propensity to commit crime exhibits no significantly increasing trend prior to displacement; second, the crime rates of workers who will be displaced and who will not be displaced are not significantly different. The impact of displacement on crime is substantial: displaced workers' probability to commit any crime increases by 0.52 ppts in the first year. This effect comes mostly from property crime (+0.38 ppt). The probability of crime spikes again 4 years and 7 years post-displacement. The spikes are greater in areas with higher unemployment, and are driven by high-school educated single males. This paper presents an explanation for such pattern, driven by new active labor market laws in Denmark. The spikes of crime match the introduction of active labor market policies, and the exhaustion of passive benefits. Early cohorts' eligibility to unemployment is unexpectedly set to their past number of weeks of employment, generating a discontinuity in eligibility, where individuals right at the margin of eligibility see higher crime than individuals right below the eligibility limit.
+
+------------------------------------------------------------------------
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/IER_cover.jpg){width=150px}
+:::
+
+::: {.column width="75%"}
+## [City Equilibrium with Borrowing Constraints: Structural Estimation and General Equilibrium Effects](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12366)
+_International Economic Review_ 
+
+joint with Romain Rancière
+
+:::
+
+:::
+
+This article develops a general equilibrium model of location choice where mortgage approval rates determine household-specific choice sets. Estimation of the model using San Francisco Bay area data reveals that the price sensitivity of borrowing constraints explains about two-thirds of the price elasticity of neighborhood demand. General equilibrium analysis of the 2000–2006 relaxation of lending standards predicts the following impacts on prices and neighborhood demographics: (i) an increase in house prices accompanied by a compression of the price distribution and (ii) a reduction in the isolation of Whites reflecting gentrification. Both predictions are supported by empirical observation.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/RESTAT_cover.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Credit Standards and Segregation](https://direct.mit.edu/rest/article/98/5/880/58620/Credit-Standards-and-Segregation)
+
+*Review of Economics and Statistics*, December 2016, Vol. 98, No. 5, Pages: 880-896.
+
+joint with [Romain Ranciere](http://www.romainranciere.com/) (University of Southern California).
+:::
+
+:::
+
+This paper explores the effects of changes in lending standards on racial segregation within metropolitan areas. Such changes affect neighborhood choices as well as aggregate prices and quantities in the housing market. Using the credit boom of 2000-2006 as a large-scale experiment, we put forward an IV strategy that predicts the relaxation of credit standards as the result of a credit supply shock predominantly affecting liquidity-constrained banks. The relaxed lending standards led to significant outflows of Whites from black and from racially mixed neighborhoods: without such credit supply shock, black households would have had between 2.3 and 5.1 percentage points more white neighbors in 2010.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/TAR_cover.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [The Higher Moments of Future Return on Equity](https://www.dropbox.com/s/vhusdi2eu6n5cl6/ChangMonahanOuazad.pdf?dl=0)
+
+_The Accounting Review_
+
+joint with Steven Monahan, Woo Jin Chang, and Florin Vasvari.
+:::
+
+:::
+
+We use quantile regressions to evaluate the higher moments of future earnings. First, we evaluate the in-sample relations between current firm-level attributes and the moments of lead return on equity, ROE. We show that: (1) as current ROE increases lead ROE tends to increase, become more disperse, and more leptokurtic---i.e., fat-tailed; (2) loss firms tend to have lower, more disperse, and more left-skewed lead ROE; (3) as accruals increase lead ROE tends to decrease and become more disperse; and, (4) firms with higher leverage and/or lower payout ratios tend to have greater dispersion in lead ROE. Second, we show that the in-sample relations generate reliable out-of-sample predictions of the standard deviation, skewness, and kurtosis of lead ROE. Moreover, when compared to predictions obtained via alternative approaches, our out-of-sample predictions always contain incremental information content and are typically more reliable. Finally, we evaluate the relation between higher moments and market-based variables. These analyses demonstrate that equity prices are increasing in the variance and skewness of lead ROE but decreasing in the kurtosis of lead ROE. Credit spreads are increasing in the variance and kurtosis of lead return on assets, ROA, and decreasing in the skewness of lead ROA.
+
+------------------------------------------------------------------------
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/HDBK_cover.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Financial Development, Growth, and Crisis: Is there a trade-off?](https://www.elgaronline.com/view/edcoll/9781785360503/9781785360503.00018.xml)
+
+_Handbook of Finance and Development_, edited by Thorsten Beck and Ross Levine.
+
+
+Joint with [Norman Loayza](http://www.worldbank.org/en/about/people/n/norman-loayza) (World Bank) and Romain Rancière (USC).
+:::
+
+:::
+
+Financial depth is the fuel of economic growth. Yet, the same fuel, when excessive and triggered by a shock of flame, can engender an economic crisis. For decades, the economics literature studied these two effects separately, building independently massive cases in favor of and against financial deepening. Only since the mid-2000s, the economics literature recognized that the positive and negative aspects of finance should be considered jointly. This innovation has prompted an exploration of the trade-offs involved in various aspects of financial development, such as depth, inclusion, composition, and variety. Likewise, it has induced a new type of policy debate regarding monetary and financial affairs, a debate that takes into account the trade-offs intrinsic in financial development (see, for instance, World Bank (2013)). And from this debate, a diversity of policy reforms have been implemented across the world, from financial macroprudential policies to monetary policy frameworks that monitor credit and asset price growth.
+
+____
+
+::: columns
+
+:::{.column width="25%"}
+![](http://www.ouazad.com/resources/SPRINGER.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Resilient Urban Housing Markets: Shocks Versus Fundamentals
+[Link to Springer](https://link.springer.com/chapter/10.1007/978-3-030-71587-8_17), 01 May 2021
+ 
+:::
+
+
+:::
+
+In the face of current challenges due to a pandemic, urban protests, an affordability crisis, and a series of other shocks to the quality of urban life, is the desirability of housing in dense urban settings at a turning point? Assessing the future of cities’ long term trends remains an empirical question. The first part of this chapter describes the short-run dynamics of the housing market in 2020. Evidence from prices and price-to-rent ratios suggests expectations of resilience. Zip code-level evidence suggests a short-run trend towards suburbanization, and some impacts of urban protests on house prices. The second part of the chapter analyzes the long-run dynamics of urban growth between 1970 and 2010. It analyzes what, in such urban growth, is explained by short-run shocks as opposed to fundamentals such as education, industrial specialization, industrial diversification, urban segregation, and housing supply elasticity. This chapter’s original results as well as a large established body of literature suggest that fundamentals are the key drivers of growth, and that the shocks considered in this paper have not had historically a measurable long-term impact on metropolitan population growth. The chapter illustrates this finding with two case studies: the New York City housing market after September 11, 2001; and the San Francisco Bay Area in the aftermath of the 1989 Loma Prieta earthquake. Both areas rebounded strongly after these shocks, suggesting the resilience of the urban metropolis.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/JPUBE_cover.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Estimating Perceptions of Discrimination: Experimental Economics in Schools
+
+_Journal of Public Economics_, Volume 105, September 2013, Pages 116--130, joint with [Lionel Page](https://sites.google.com/site/liopage/home).
+
+:::
+
+:::
+
+We put forward a new experimental economics design with monetary incentives to estimate students' per- ceptions of grading discrimination. We use this design in a large field experiment which involved 1200 British students in grade 8 classrooms across 29 schools. In this design, students are given an endowment that they can invest on a task where payoff depends on performance. The task is a written verbal test which is graded nonanonymously by their teacher, in a random half of the classrooms, and graded anonymously by an external examiner in the other random half of the classrooms. We find significant evidence that students' choices reflect perceptions of biases in teachers' grading practices. Our results suggest systematic gender effects: students invest more with male teachers. Moreover, if we use the choices made with an external examiner as a benchmark, this result seems to come from two effects which complement each other: when comparing students' choices with their teacher to those made with an external examiner, we find that male students invest less with female teachers while female students invest more with male teachers.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/OBES_cover.jpg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Using Compulsory Mobility to Identify School Quality and Peer Effects
+
+_Oxford Bulletin of Economics and Statistics_, joint with [Stephen Machin](http://personal.lse.ac.uk/machin/) and [Francis Kramarz](http://www.crest.fr/ses.php?user=68)
+:::
+
+:::
+
+Education production functions that feature school and student fixed effects are identified using students' school mobility. However, student mobility is driven by factors like parents' labour market shocks and divorce. Movers experience large achievement drops, are more often minority and free meal students, and sort endogenously into peer groups and school types. We exploit an English institutional feature whereby some students must change schools between grades 2 and 3. We find no evidence of endogenous sorting of such compulsory movers across peer groups or school types. Non-compulsory movers bias school quality estimates downward by as much as 20% of a SD.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/EFP_cover.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## Assessed by a Teacher Like Me: Race and Teacher Assessments
+
+_Education Finance and Policy_, Summer 2014.
+
+:::
+
+:::
+
+Do teachers assess same-race students more favorably? This paper uses nationally representative data on teacher assessments of student ability that can be compared with test scores to determine whether teachers give better as- sessments to same-race students. The data set follows students from kindergarten to grade 5, a period dur- ing which racial gaps in test scores increase rapidly. Teacher assessments comprise up to twenty items mea- suring specific skills. Using a unique within-student and within-teacher identification and while controlling for subject-specific test scores, I find that teachers do assess same-race students more favorably. Effects ap- pear in kindergarten and persist thereafter. Robustness checks suggest that: student behavior does not explain this effect; same-race effects are evident in teacher as- sessments of most of the skills; grading "on the curve" should be associated with lower assessments; and mea- surement error in assessments or test scores does not significantly affect the estimates.
+____
+
+### **Working Papers**
+
+------------------------------------------------------------------------
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## The Transmission of Shocks in Endogenous Financial Networks: A Structural Approach
+Jonas Heipertz, Amine Ouazad & Romain Rancière
+
+_NBER Working Paper_, 26049, July 2019, [Link to the NBER](https://www.nber.org/papers/w25701)
+:::
+
+:::
+
+The paper uses bank- and instrument-level data on asset holdings and liabilities to identify and estimate a general equilibrium model of trade in financial instruments. Bilateral ties are formed as each bank selects the size and the diversification of its assets and liabilities. Shocks propagate due to the response, rather than the size, of bilateral ties to such shocks. This general equilibrium propagation of shocks reveals a financial network where the strength of a tie is determined by the sensitivity of an instrument’s return to other instruments’ returns. General equilibrium analysis predicts the propagation of real, financial and policy shocks. The network’s shape adjusts endogenously in response to shocks, to either amplify or mitigate partial equilibrium shocks. The network exhibits key theoretical properties: (i) more connected networks lead to less amplification of partial equilibrium shocks, (ii) the influence of a bank’s equity is independent of the size of its holdings; (ii) more risk-averse banks are more diversified, lowering their own volatility but increasing their influence on other banks. The general equilibrium based network model is structurally estimated on disaggregated data for the universe of French banks. We used the estimated network to assess the effects of ECB quantitative easing policy on asset prices, balance-sheets, individual bank distress risk, and networks systemicness.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Balance-Sheet Diversification in General Equilibrium: Identification and Network Effects](http://www.nber.org/papers/w23572)
+
+_NBER Working paper_ 23572, July 2017, [ungated pdf](https://www.dropbox.com/s/r6cmbenv9k4t0rq/w23572.pdf?dl=1).
+
+:::
+
+:::
+
+The paper uses disaggregated data on asset holdings and liabilities to estimate a general equilibrium model where each institution determines the diversification and size of the asset and liability sides of its balance-sheet. The model endogenously generates two types of financial networks: (i) a network of institutions when two institutions share common asset or liability holdings or when an institution holds an asset that is the liability of another. In both cases demand/supply decisions by one institution affect the value of other institutions' holdings/liabilities, (ii) a network of financial instruments implied by the distribution of assets and liabilities within and across institutions. A change in the price of one asset induces change in demand/supply for all other assets, thus generating price comovement. The general equilibrium analysis predicts the propagation of real, financial and regulatory shocks as well as the change in the network caused by the shock.
+
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## Market Frictions, Arbitrage, and the Capitalization of Amenities
+
+Amine Ouazad & Romain Rancière
+
+_NBER Working paper_ 25701, March 2019, [Link to the NBER.](https://www.nber.org/papers/w25701)
+
+:::
+
+:::
+
+The price-amenity arbitrage is a cornerstone of spatial economics, as the response of land and house prices to shifts in the quality of local amenities and public goods is typically used to reveal households' willingness to pay for amenities. With informational, time, and cash constraints, households' ability to arbitrage across locations with different amenities (demographics, crime, education, housing) depends on their ability to compare locations and to finance the swap of houses. Arbitrageurs with deep pockets and better search and matching technology can take advantage of price dispersions and unexploited trade opportunities. We develop a disaggregated search and matching model of the housing market with endogenously bargained prices, identified on transaction-level data from the universe of deeds for 6,400+ neighborhoods of the Chicago metropolitan area, matched with school-level test scores and geocoded criminal offenses. Price-amenity gradients reflect preferences and the capitalization of trading opportunities, which are arbitraged away in the frictionless limit. Thus the time-variation in hedonic pricing coefficients partly reflects the time variation in search and credit frictions. Our model is able to explain that, between the peak of the housing boom and its trough, the sign of the price-amenity gradient flipped, due to the decline in trading opportunities in lower-amenity neighborhoods and due to the lower capitalization of trading opportunities in house prices.
+
+____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Arxiv.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## Coastal Flood Risk in the Mortgage Market: Storm Surge Models' Predictions vs. Flood Insurance Maps
+[Link to the Arxiv repository](https://arxiv.org/abs/2006.02977)
+
+:::
+
+:::
+
+Prior literature has argued that flood insurance maps may not capture the extent of flood risk. This paper performs a granular assessment of coastal flood risk in the mortgage market by using physical simulations of hurricane storm surge heights instead of using FEMA's flood insurance maps. Matching neighborhood-level predicted storm surge heights with mortgage files suggests that coastal flood risk may be large: originations and securitizations in storm surge areas have been rising sharply since 2012, while they remain stable when using flood insurance maps. Every year, more than 50 billion dollars of originations occur in storm surge areas outside of insurance floodplains. The share of agency mortgages increases in storm surge areas, yet remains stable in the flood insurance 100-year floodplain. Mortgages in storm surge areas are more likely to be complex: non-fully amortizing features such as interest-only or adjustable rates. Households may also be more vulnerable in storm surge areas: median household income is lower, the share of African Americans and Hispanics is substantially higher, the share of individuals with health coverage is lower. Price-to-rent ratios are declining in storm surge areas while they are increasing in flood insurance areas. This paper suggests that uncovering future financial flood risk requires scientific models that are independent of the flood insurance mapping process.
+
+------------------------------------------------------------------------
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/Brookings.jpeg){width=150px}
+:::
+
+::: {.column width="75%"}
+## An analysis of financial institutions in Black-majority communities: Black borrowers and depositors face considerable challenges in accessing banking services
+[Link to the piece](https://www.brookings.edu/research/an-analysis-of-financial-institutions-in-black-majority-communities-black-borrowers-and-depositors-face-considerable-challenges-in-accessing-banking-services/)
+
+joint with Kristen Broady (Federal Reserve Bank of Chicago), Mac McComas (Senior Program Manager, 21st Century Cities Initiative - Johns Hopkins University)
+
+:::
+
+:::
+
+This report documents that, at a local level, there are stark contrasts in access to credit for African Americans: Interest rates on business loans, bank branch density, local banking concentration in the residential mortgage market, and the growth of local businesses are markedly different in majority Black neighborhoods. Several policy approaches are suggested: First, a more granular approach to banking supervision may be needed; microgeographic data in 2021 provides a much closer look at the banking practices of major banks and nonbank lenders than in 1977, when the Community Reinvestment Act was signed into law. Second, the number of African American minority depository institutions (MDIs) has been declining and policy or private-sector support is likely needed (Pike, 2021). Third, as the mobility of Americans is overall declining, geography matters more than ever (Molloy et al 2017). A lack of credit hinders investments in better homes, better schools, better local infrastructure such as roads and public transport, better amenities, and better health care.
+
+------------------------------------------------------------------------
+
+## Acknowledgments
+
+------------------------------------------------------------------------
+
+Empirical research on this webpage uses data from [ICPSR](http://www.icpsr.umich.edu/).

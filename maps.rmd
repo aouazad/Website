@@ -1,0 +1,74 @@
+---
+title: 'Maps'
+output: html_document
+---
+
+```{=html}
+<style>
+body {
+text-align: justify}
+</style>
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+_These maps are provided as is for research & academic purposes, and are not meant to
+be used by homeowners, prospective buyers, or investors. These maps are not
+regularly updated. These maps are built
+using publicly available data sources, including Census data, Home Mortgage 
+Disclosure Act data, FEMA's National Flood Hazard Layer._
+
+____
+
+::: columns
+
+::: {.column width="35%"}
+![](http://www.ouazad.com/Maps/map_mortgages/icon.png){width=250px}
+:::
+
+::: {.column width="65%"}
+## [Agency securitizations, Sea Level Rise, Flood Insurance Zones](http://www.ouazad.com/Maps/map_mortgages/Floods_mortgages_national_november_2020.html)
+
+Census tract-level. SLR from NOAA. Flood insurance map from FEMA's 2017 NFHL. Agency securitizations from HMDA.
+
+_This is a 200Mb map that may take time to load. Be patient._
+:::
+ 
+:::
+
+____
+
+
+::: columns
+
+::: {.column width="35%"}
+![](http://www.ouazad.com/Maps/Clusters_Vacancies_US/icon.png){width=250px}
+:::
+
+::: {.column width="65%"}
+## [Vacant Housing Units](http://www.ouazad.com/Maps/Clusters_Vacancies_US/index.html)
+
+Census tract-level, 2010 data.
+:::
+
+:::
+
+____
+
+
+::: columns
+
+::: {.column width="35%"}
+![](http://www.ouazad.com/Maps/SegregationProject/CBSA_16980_black/icon_map.png){width=250px}
+:::
+
+::: {.column width="65%"}
+## [Urban Segregation in Chicago](http://www.ouazad.com/Maps/SegregationProject/CBSA_16980_black/CBSA_16980_black.html)
+Census tract-level, 2010 data.
+:::
+
+:::
+
+
+
