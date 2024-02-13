@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Media Coverage</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Amine Charles-Louis Ouazad</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">About</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="presentations.html">Talks</a>
+</li>
+<li>
+  <a href="media_urban_economics.html">Media</a>
+</li>
+<li>
+  <a href="maps.html">Maps</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/amine_ouazad">
+    <span class="ion ion-social-twitter"></span>
+     
+    @amine_ouazad
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/aouazad/">
+    <span class="ion ion-social-linkedin"></span>
+     
+    LinkedIn
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Media Coverage</h1>
+
+</div>
+
+
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/NYT.png" width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div
+id="climate-risk-in-the-housing-market-has-echoes-of-subprime-crisis-study-finds"
+class="section level2">
+<h2>Climate Risk in the Housing Market Has Echoes of Subprime Crisis,
+Study Finds</h2>
+<p><a
+href="https://www.nytimes.com/2019/09/27/climate/mortgage-climate-risk.html">Link
+to the Newspaper</a> By Christopher Flavelle, Published Sept. 27,
+2019</p>
+</div>
+</div>
+</div>
+<p>WASHINGTON — Banks are shielding themselves from climate change at
+taxpayers’ expense by shifting riskier mortgages — such as those in
+coastal areas — off their books and over to the federal government, new
+research suggests.</p>
+<p>The findings echo the subprime lending crisis of 2008, when
+unexpected drops in home values cascaded through the economy and
+triggered recession. One difference this time is that those values would
+be less likely to rebound, because many of the homes literally would be
+underwater.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/NYT.png" width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div
+id="rising-seas-threaten-an-american-institution-the-30-year-mortgage"
+class="section level2">
+<h2>Rising Seas Threaten an American Institution: The 30-Year
+Mortgage</h2>
+<p><a
+href="https://www.nytimes.com/2020/06/19/climate/climate-seas-30-year-mortgage.html">Link
+to the Newspaper</a> By Christopher Flavelle, Published June 19,
+2020</p>
+</div>
+</div>
+</div>
+<p>WASHINGTON — Up and down the coastline, rising seas and climate
+change are transforming a fixture of American homeownership that dates
+back generations: the classic 30-year mortgage.</p>
+<p>Home buyers are increasingly using mortgages that make it easier for
+them to stop making their monthly payments and walk away from the loan
+if the home floods or becomes unsellable or unlivable. More banks are
+getting buyers in coastal areas to make bigger down payments — often as
+much as 40 percent of the purchase price, up from the traditional 20
+percent — a sign that lenders have awakened to climate dangers and want
+to put less of their own money at risk.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/HW.PNG" width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="the-7-trillion-climate-question-facing-fannie-and-freddie"
+class="section level2">
+<h2>The $7 trillion climate question facing Fannie and Freddie</h2>
+<p><a
+href="https://www.housingwire.com/articles/the-7-trillion-climate-question-facing-fannie-and-freddie/">Housing
+Wire</a> By Ted Jackson, June 30, 2021.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/politico.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="how-climate-change-could-spark-the-next-home-mortgage-disaster"
+class="section level2">
+<h2>How climate change could spark the next home mortgage disaster</h2>
+<p><a
+href="https://www.politico.com/news/2020/11/30/climate-change-mortgage-housing-environment-433721">Link
+to the Website</a> By Zack Colman, 11/30/2020</p>
+</div>
+</div>
+</div>
+<p>With its lively parks and colorful bungalows, Hialeah, Fla., has been
+the gateway to the American middle class for thousands of Cuban
+immigrants.</p>
+<p>Hialeah was the place where home ownership, an unattainable goal
+under the Communist regime of their homeland, became a reality. And as
+in many American communities — rich and poor, of every ethnic makeup —
+the American dream for families in Hialeah was helped along by the
+taxpayer-funded mortgage giants, Fannie Mae and Freddie Mac. Their
+willingness to purchase the loans on homes in the area provides local
+lenders with a steady flow of cash to invest in the community.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/politico.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="borrowed-time-climate-change-threatens-u.s.-mortgage-market"
+class="section level2">
+<h2>Borrowed time: Climate change threatens U.S. mortgage market</h2>
+<p><a
+href="https://www.politico.com/states/new-york/albany/story/2020/06/07/borrowed-time-climate-change-threatens-us-mortgage-market-1291552">Link
+to the Website</a> By Zack Colman and KATY O’DONNELL, 06/07/2020</p>
+</div>
+</div>
+</div>
+<p>WASHINGTON — U.S. taxpayers could be on the hook for billions of
+dollars in climate-related property losses as the government backs a
+growing number of mortgages on homes in the path of floods, fires and
+extreme weather.</p>
+<p>Violent storms and sunny-day flooding are on the rise, and more
+houses are being built on at-risk land. But fewer people are buying
+federally backed flood insurance despite requirements that homeowners in
+flood plains be insured if their mortgage is backed by taxpayers.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/insidemortgagefinance.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="researchers-find-climate-driven-changes-in-mbs-deliveries"
+class="section level2">
+<h2>Researchers Find Climate-Driven Changes in MBS Deliveries</h2>
+<p><a
+href="https://www.insidemortgagefinance.com/articles/228062-researchers-find-climate-driven-changes-in-mbs-deliveries?v=preview">Link
+to the website</a> by Dennis Hollier, June 9th, 2023</p>
+</div>
+</div>
+</div>
+<p>The economists used the government-sponsored enterprises’ conforming
+loan limits to examine lenders’ choices in the wake of a significant
+disaster.</p>
+<hr />
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_KyfItPRfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+</center>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Climate_now.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="housing-market-climate-risk-with-amine-ouazad"
+class="section level2">
+<h2>Housing Market Climate Risk with Amine Ouazad</h2>
+<p><a
+href="https://climatenow.com/podcast/housing-market-climate-risk-with-amine-ouazad/">Climate
+Now Podcast</a>, June 10, 2021.</p>
+</div>
+</div>
+</div>
+<p>Dr. Amine Ouazad speaks with Climate Now about how climate could
+spark the next financial crisis.</p>
+<p>Sea levels are rising, storms are worsening, and flooding is
+consistently exceeding FEMA’s 100-year floodplain maps. Yet, an
+increasing percentage of new mortgages are used to purchase homes in
+at-risk areas. And lenders are selling mortgages in areas hit by
+hurricanes at higher rates to Fannie Mae and Freddie Mac, who are backed
+by American taxpayers, according to research done by Dr. Amine Ouazad,
+Professor of Economics at HEC Montreal.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Bloomberg.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="when-climate-change-leads-to-mortgage-defaults"
+class="section level2">
+<h2>When Climate Change Leads to Mortgage Defaults</h2>
+<p><a
+href="https://www.politico.com/states/new-york/albany/story/2020/06/07/borrowed-time-climate-change-threatens-us-mortgage-market-1291552">Link
+to the Website</a> Simple steps to make sure lenders and homebuyers —
+not taxpayers — bear the risk. By Matthew E. Kahn and Amine Ouazad
+October 3, 2019.</p>
+</div>
+</div>
+</div>
+<p>Climate change poses risks to real estate that homebuyers may not be
+able to predict. As sea level rises, coastal properties, for example,
+may be subject to increased flooding and intensifying storm surges.
+First-time homebuyers often lack the expertise to evaluate these new
+risks, and thus tend to underestimate them and overpay for increasingly
+exposed properties.</p>
+<p>Unfortunately, the risks they accept are not borne by themselves
+alone. Rather, our research has found, it is shared by mortgage lenders
+and, through the operations of Freddie Mac and Fannie Mae, American
+taxpayers.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Vice_news.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div
+id="a-big-short-investors-new-bet-climate-change-will-bust-the-housing-market"
+class="section level2">
+<h2>A ‘Big Short’ Investor’s New Bet: Climate Change Will Bust the
+Housing Market</h2>
+<p><a
+href="https://www.vice.com/en/article/wjwyy9/a-big-short-investors-new-bet-climate-change-will-bust-the-housing-market"></a>
+By Geoff Dembicki, November 1, 2019.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Citylab.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="the-housing-bubble-also-left-our-neighborhoods-more-segregated"
+class="section level2">
+<h2>The Housing Bubble also left our neighborhoods more segregated</h2>
+<p><a
+href="http://www.citylab.com/housing/2014/09/the-housing-bubble-also-left-our-neighborhoods-more-segregated/380435/">Bloomberg
+Citylab</a> By Geoff Dembicki, November 1, 2019.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/business_insider.PNG"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div
+id="black-homeowners-pushed-out-of-one-baltimore-block-show-how-wall-street-banks-failed-to-lend-money-they-had-promised-a-bloomberg-investigation-shows"
+class="section level2">
+<h2>Black homeowners pushed out of one Baltimore block show how Wall
+Street banks failed to lend money they had promised, a Bloomberg
+investigation shows</h2>
+<p><a
+href="https://www.businessinsider.com/wall-street-banks-promises-to-boost-black-homeownership-fall-short-2022-12">Business
+Insider</a> By Alcynna Lloyd Dec 26, 2022, 10:15 AM.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Citylab.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="mapping-the-density-of-baltimores-vacant-housing-crisis"
+class="section level2">
+<h2>Mapping the Density of Baltimore’s Vacant-Housing Crisis</h2>
+<p><a
+href="http://www.citylab.com/housing/2015/05/mapping-the-density-of-baltimores-vacant-housing-crisis/394196/">Bloomberg
+CityLab</a>, May 27, 2015.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Citylab.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="how-real-estate-brokers-can-profit-from-racial-tipping-points"
+class="section level2">
+<h2>How Real-Estate Brokers Can Profit From Racial Tipping Points</h2>
+<p><a
+href="http://www.citylab.com/housing/2015/03/how-real-estate-brokers-can-profit-from-racial-tipping-points/386674/">Bloomberg
+CityLab</a>”, Mar 3, 2015.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/Grist.png"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="holding-the-bill" class="section level2">
+<h2>Holding the Bill</h2>
+<p>Insurance companies and lenders are responding to climate change — by
+shifting risk to taxpayers. <a
+href="https://grist.org/climate/insurance-companies-and-lenders-are-responding-to-climate-change-by-shifting-risk-to-taxpayers/">Grist</a>,
+Mar 04, 2020. By Naveena Sadasivam, Senior Staff Writer.</p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/WSJ.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div
+id="banks-move-flood-based-mortgage-risks-out-of-private-sector-paper"
+class="section level2">
+<h2>Banks Move Flood-Based Mortgage Risks Out of Private Sector:
+Paper</h2>
+<p><a
+href="https://www.wsj.com/articles/banks-move-flood-based-mortgage-risks-out-of-private-sector-paper-11570024428">Wall
+Street Journal, October 2, 2019</a></p>
+</div>
+</div>
+</div>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/WP.png" width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="how-the-housing-market-increased-segregation"
+class="section level2">
+<h2><a
+href="https://www.washingtonpost.com/blogs/ezra-klein/post/how-the-housing-bubble-increased-segregation/2012/03/16/gIQANnxVGS_blog.html">How
+the housing market increased segregation</a>”</h2>
+<p>Washington Post, March 16, 2012.</p>
+</div>
+</div>
+</div>
+<hr />
+<div id="boston-globe" class="section level2">
+<h2>Boston Globe</h2>
+<p>In <a
+href="https://www.bostonglobe.com/ideas/2016/04/02/have-trade-deals-been-disaster/YzzMmIeLQx4wFgSdCtt8EL/story.html">Have
+Trade Deals Been a Disaster? Moving on up. . . with each other</a></p>
+<hr />
+</div>
+<div id="huffington-post" class="section level2">
+<h2>Huffington Post</h2>
+<p><a
+href="http://www.huffingtonpost.fr/amine-ouazad/prix-de-limmobilier-investissement_b_12190974.html">Le
+logement, premier actif des Français et source majeure d’inégalités de
+richesse</a></p>
+<hr />
+</div>
+<div id="national-affairs" class="section level2">
+<h2>National Affairs</h2>
+<p><a
+href="http://www.nationalaffairs.com/blog/blogger/findings-a-daily-roundup">Findings:
+a Daily Round Up of Academic Studies: Serious, Sublime, Surreal, or
+Otherwise</a>.</p>
+<hr />
+<div class="columns">
+<div class="column" style="width:25%;">
+<p><img src="http://www.ouazad.com/resources/WSJ.jpeg"
+width="150" /></p>
+</div><div class="column" style="width:75%;">
+<div id="how-the-housing-market-increased-segregation-1"
+class="section level2">
+<h2>How the housing market increased segregation</h2>
+<p>Wall Street Journal, Real Time Economics, March 16, 2012.</p>
+</div>
+</div>
+</div>
+<hr />
+</div>
+<div id="voxeu.org" class="section level2">
+<h2>Voxeu.org</h2>
+<p><a
+href="http://www.voxeu.org/article/did-mortgage-credit-boom-contribute-decline-us-racial-segregation">Did
+the mortgage credit boom contribute to the decline in US racial
+segregation?</a></p>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

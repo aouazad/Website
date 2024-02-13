@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Teaching</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Amine Charles-Louis Ouazad</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">About</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="presentations.html">Talks</a>
+</li>
+<li>
+  <a href="media_urban_economics.html">Media</a>
+</li>
+<li>
+  <a href="maps.html">Maps</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/amine_ouazad">
+    <span class="ion ion-social-twitter"></span>
+     
+    @amine_ouazad
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/aouazad/">
+    <span class="ion ion-social-linkedin"></span>
+     
+    LinkedIn
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Teaching</h1>
+
+</div>
+
+
+<hr />
+<p>I have taught more than 2030 students in my career, in undergraduate,
+MBA, Executive MBA, PhD, MSc programs. Here is what students say:</p>
+<ul>
+<li>“Notions that will definitely be of great use in our professional
+lives.”</li>
+<li>“Completely valuable for future managerial positions.”</li>
+<li>“Cases and examples were really diversified.”</li>
+<li>“Excellent coverage of global issues.”</li>
+<li>“Very international.”</li>
+</ul>
+<p>Please find below some of the open access resources related to my
+courses.</p>
+<div id="section" class="section level2 tabset">
+<h2 class="tabset"></h2>
+<div id="urban-economics" class="section level3">
+<h3>Urban Economics</h3>
+<div id="urban-and-real-estate-economics-for-masters-students"
+class="section level4">
+<h4>Urban and Real Estate Economics for Masters Students</h4>
+<p>I have taught this course at Ecole Polytechnique (Paris) in the
+Masters program.</p>
+<p><a
+href="https://www.dropbox.com/s/8zwblzrtgjuesvn/Master%20in%20Economics%20-%20Syllabus.pdf?dl=0">Syllabus</a></p>
+<p>Get yourself a copy of <a href="https://www.r-project.org/">R</a>, <a
+href="https://www.rstudio.com/">RStudio</a>, and <a
+href="http://www.qgis.org/en/site/">QGIS</a>.</p>
+<hr />
+<div id="session-1-world-urbanization-urbanization-without-growth"
+class="section level5">
+<h5>Session 1: World Urbanization, Urbanization without Growth</h5>
+<p><a
+href="https://www.dropbox.com/s/stzfcqqgs9td11o/session-1-handout.pdf?dl=0">Lecture
+slides 1</a></p>
+<p><a
+href="https://www.dropbox.com/s/cgaxidiye38jvsl/assignment1.pdf?dl=0">Assignment
+1</a>, due Feb 6.</p>
+<hr />
+</div>
+<div id="session-2-city-size-distribution" class="section level5">
+<h5>Session 2: City Size Distribution</h5>
+<p><a
+href="https://www.dropbox.com/s/0nhfngd933o8j9s/session-2-handout.pdf?dl=0">Lecture
+slides 2</a></p>
+<p>Assignment 2, due Feb 13 midnight, is described in lecture slides 2
+(last slide).</p>
+<p>An <a href="http://rpubs.com/aouazad/zipfslaw">R notebook I
+designed</a> to assess Zipf’s law for cities using simple R code.</p>
+<p>The data for the notebook is here: <a
+href="http://ouazad.com/urbanecondata/session2_zipf/">Data folder for
+Zipf Law analysis</a></p>
+<hr />
+</div>
+<div id="session-3-location-choice-and-hedonic-pricing"
+class="section level5">
+<h5>Session 3: Location Choice and Hedonic Pricing</h5>
+<p><a
+href="https://www.dropbox.com/s/htbuybg24f1wo9s/session3.pdf?dl=0">Lecture
+slides 3</a> (Updated !)</p>
+<p>Assignment 3, due Feb 28 midnight, is described in lecture slides 3
+(last slide).</p>
+<p>I designed an R notebook, <a
+href="http://www.ouazad.com/urbanecondata/assignment3_monocentric/New_York_nb.html">available
+here</a>, that describes an analyis of the final question, the distance
+to the Central Business District and house prices.</p>
+<hr />
+</div>
+<div id="session-4-housing-supply-land-use-regulations-geography"
+class="section level5">
+<h5>Session 4: Housing Supply, Land Use Regulations, Geography</h5>
+<p><a
+href="https://www.dropbox.com/s/6bjvr6om8zr6f44/session4-housingsupply.pptx?dl=0">Lecture
+4</a></p>
+<hr />
+</div>
+<div id="session-5-who-lives-where-segregation-and-gentrification"
+class="section level5">
+<h5>Session 5: Who Lives Where? Segregation and Gentrification</h5>
+<p><a
+href="https://www.dropbox.com/s/7x2uslph86q3kkh/Session5.pdf?dl=0">Lecture
+5</a></p>
+<hr />
+</div>
+<div id="session-6-mortgage-finance-and-the-housing-boom-and-bust"
+class="section level5">
+<h5>Session 6: Mortgage Finance and the Housing Boom and Bust</h5>
+<p><a
+href="https://www.dropbox.com/s/ylva3s9udr2kly3/Session6.pptx?dl=0">Lecture
+6</a></p>
+<hr />
+</div>
+</div>
+</div>
+<div id="master-of-business-administration" class="section level3">
+<h3>Master of Business Administration</h3>
+<hr />
+<div id="prices-markets---insead-mba-core-course"
+class="section level4">
+<h4><a href="http://www.ouazad.com/Courses/MBA-PM">Prices &amp; Markets
+- INSEAD MBA Core Course</a></h4>
+<blockquote>
+<p>This course analyzes the economics of managerial decision making. Our
+focus is on the economic fundamentals of businesses and industries:
+production and costs; demand for the product; production and pricing
+strategies; market equilibrium; competition between industry
+participants; and strategic decision making. The managerial decisions
+that we will address include price discrimination, capacity management,
+entry and exit decisions, and using strategic commitment.</p>
+</blockquote>
+<hr />
+</div>
+</div>
+<div id="phd-in-management" class="section level3">
+<h3>PhD in Management</h3>
+<p><em>INSEAD offers a full PhD program in all business fields: finance,
+technology and operations management, marketing, organizational
+behavior, strategy, entrepreneurship. I teach the PhD core course in
+econometrics; the course is the single entry point of all PhD students
+wishing to use data in their research. Through the PhD program I have
+made life-long friends with PhD students who became faculty in the best
+international universities and business schools.</em></p>
+<hr />
+<div id="econometrics-a" class="section level4">
+<h4><a href="http://www.ouazad.com/PhD-Econometrics/">Econometrics
+A</a></h4>
+<blockquote>
+<p>Identification and Inference in Linear Econometrics, natural
+experiments, instrumental variables.</p>
+</blockquote>
+<p>Resources: <a
+href="http://www.ouazad.com/PhD-Econometrics/">Website</a> (joint
+A&amp;B) and <a
+href="https://www.dropbox.com/s/k2wr2egx47pbrry/PhD_Econometrics_A_syllabus.pdf?dl=1">Syllabus</a>.</p>
+<hr />
+</div>
+<div id="econometrics-b" class="section level4">
+<h4><a href="http://www.ouazad.com/PhD-Econometrics/">Econometrics
+B</a></h4>
+<blockquote>
+<p>Structural Econometrics, Maximum Likelihood, and the Generalized
+Method of Moments</p>
+</blockquote>
+<p>Resources: <a
+href="http://www.ouazad.com/PhD-Econometrics/">Website</a> (joint
+A&amp;B) and <a
+href="https://www.dropbox.com/s/rniiv0zo9kjfw6v/PhD_Econometrics_B_syllabus.pdf?dl=1">Syllabus</a>.</p>
+<hr />
+</div>
+<div id="advanced-econometrics" class="section level4">
+<h4><a href="http://www.ouazad.com/PhD-Econometrics/">Advanced
+Econometrics</a></h4>
+<blockquote>
+<p>Identification and Estimation of Models of Demand for Differentiated
+Products</p>
+</blockquote>
+<p>Resources: <a
+href="https://www.dropbox.com/s/m3e64zwo61gi9vk/PhD_Microeconometrics_syllabus.pdf?dl=1">Syllabus</a>.</p>
+<hr />
+</div>
+<div id="phd-microeconomics-c" class="section level4">
+<h4>PhD Microeconomics C</h4>
+<blockquote>
+<p>Advanced Game Theory, Auction Design</p>
+</blockquote>
+<hr />
+</div>
+</div>
+<div id="global-executive-mba-insead" class="section level3">
+<h3>Global Executive MBA INSEAD</h3>
+<p><em>The Financial Times ranks the INSEAD Global Executive MBA as its
+highest-ranked, single-school Programme – 7th in the world in 2015,
+while the Tsinghua - INSEAD EMBA (TIEMBA) is ranked in 1st place. I
+teach the economics core course of GEMBA students, and supervise their
+annual student project.</em></p>
+<hr />
+<div id="prices-and-markets-microeconomics-course"
+class="section level4">
+<h4><a href="http://www.ouazad.com/GEMBA/">Prices and Markets
+Microeconomics Course</a></h4>
+<blockquote>
+<p>Over four half days we study the essential elements of effective
+pricing – and we see so many wrong pricing strategies. Most importantly,
+the classroom is a safe space to brainstorm the most essential pricing
+frameworks, used by companies from Google and eBay to Walmart and
+Redmart.</p>
+</blockquote>
+</div>
+<div id="global-executive-mba-student-projects" class="section level4">
+<h4>Global Executive MBA — Student Projects</h4>
+<blockquote>
+<p>I helped students set up an investment brokerage firm in Nigeria, a
+water management company in Lebanon, an education start-up in
+Azerbaijan, and an outplacement company in the Netherlands.</p>
+</blockquote>
+</div>
+</div>
+<div id="law-and-economics" class="section level3">
+<h3>Law and Economics</h3>
+<div id="llm-in-international-business-law" class="section level4">
+<h4>LLM in international Business Law</h4>
+<blockquote>
+<p>I teach business economics seminars in the one-year LLM in
+International Business Law (Droit International des Affaires). The
+degree is intended for those with a masters degree in law or business
+and at least four years professional experience. The degree will prepare
+them to handle large-scale transactions such as cross-border mergers,
+major acquisitions, stock-market operations, financial engineering and
+leveraged buyouts. In class we use the tools of economics to understand
+legal issues of antitrust regulations, the stability of collusive
+agreements, the impact of market structure on prices, firms’ profits,
+and consumer surplus.</p>
+</blockquote>
+</div>
+</div>
+<div id="previously" class="section level3">
+<h3>Previously</h3>
+<div id="sciences-po-microeconomics" class="section level4">
+<h4>Sciences Po: Microeconomics</h4>
+<blockquote>
+<p>Taught two semesters of the Sciences Po microeconomics core: perfect
+competition, externalities, pigouvian taxes.</p>
+</blockquote>
+</div>
+<div id="new-york-university-abu-dhabi" class="section level4">
+<h4>New York University Abu Dhabi</h4>
+<blockquote>
+<p>Mathematics for Social Sciences, and Statistics for Social
+Sciences.</p>
+</blockquote>
+</div>
+<div id="ensae-microeconomics" class="section level4">
+<h4>ENSAE: Microeconomics</h4>
+<blockquote>
+<p>General equilibrium, demand analysis, asymmetric information and
+adverse selection problems.</p>
+</blockquote>
+</div>
+<div id="london-school-of-economics-microeconomics"
+class="section level4">
+<h4>London School of Economics: Microeconomics</h4>
+<blockquote>
+<p>Perfect competition, externalities, pigouvian taxes, moral hazard in
+principal-agent models.</p>
+</blockquote>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
