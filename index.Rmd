@@ -16,7 +16,7 @@ ___
 ::::
 
 :::: {.column width="20%"}
-![](http://www.ouazad.com/resources/picture_2022.jpeg)
+![](https://github.com/aouazad/Website/blob/83504bc3ab6ba51f486f503a4835bca6eefd32bc/pics/picture_2022.jpeg?raw=true)
 ::::
 
 :::
