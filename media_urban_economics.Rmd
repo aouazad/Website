@@ -17,6 +17,24 @@ ___
 :::
   
 ::: {.column width="75%"}
+## ‘We’re All Climate Economists Now’
+[Link to the Newspaper](https://www.nytimes.com/2024/01/23/business/economy/climate-change-economics.html)
+By Lydia de Pillis, Published Jan 23, 2024
+:::
+  
+:::
+
+Cites the [session on Climate Change Economics](https://www.aeaweb.org/conference/2024/program/1840?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCCrILEyJbESyAeREInM3FQIqywztRxkSFFBAVDA1ECpthZcMAPTHeA,) I chaired and in which I discussed at the annual ASSA meeting of Association of Environmental and Resource Economists.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/NYT.png){width=150px}
+:::
+  
+::: {.column width="75%"}
 ## Climate Risk in the Housing Market Has Echoes of Subprime Crisis, Study Finds
 [Link to the Newspaper](https://www.nytimes.com/2019/09/27/climate/mortgage-climate-risk.html)
 By Christopher Flavelle, Published Sept. 27, 2019
