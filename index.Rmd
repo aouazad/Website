@@ -1,5 +1,5 @@
 ---
-title: "Amine C-L. Ouazad"
+title: "Amine Charles-Louis Ouazad"
 ---
 <style>
 body {

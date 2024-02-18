@@ -1,6 +1,6 @@
 name: "amine-charles-louis-ouazad-website"
 navbar:
-  title: "Amine Charles-Louis Ouazad"
+  title: "Amine C-L. Ouazad"
   left:
     - text: "About"
       href: index.html
