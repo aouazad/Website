@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "About"
       href: index.html
+    - text: "A Propos (Français)"
+      href: index_fr.html
     - text: "Research"
       href: research.html
     - text: "Talks"
