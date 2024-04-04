@@ -19,7 +19,7 @@ ___
 ::: {.column width="75%"}
 ## Insurers and claimants under strain as weather-related disasters mount in B.C.
 [Link to the article](https://www.cbc.ca/news/canada/british-columbia/cold-millions-insurance-damages-1.7142869)
-By Shaurya K Kshatri, Published March 17, 2024
+By Shaurya K Kshatri, Published March 17, 2024.
 :::
   
 :::
@@ -27,6 +27,28 @@ By Shaurya K Kshatri, Published March 17, 2024
 Interviewed about British Columbia's budget, which includes funding for ex-post recovery (part of the DFAA payments that come from both the province and the federal government), adaptation to future risks, and helping in the transition to a greener economy.
 
 ____
+
+
+::: columns
+
+::: {.column width="25%"}
+![](https://github.com/aouazad/Website/blob/5b47d336b2fae6fd62a4708718bf726ea309687a/pics/inside_mortgage_finance.jpeg?raw=true){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Study Says MBS Issuance Helps Spread Climate Risks
+[Link to the article](https://www.insidemortgagefinance.com/articles/230477-securitizing-away-climate-risk?v=preview)
+By Dennis Hollier, Published March 14, 2024.
+:::
+  
+:::
+
+The diversification inherent in MBS may be the ideal tool to combat climate risk in housing finance.
+
+____
+
+
+
 
 ::: columns
 
