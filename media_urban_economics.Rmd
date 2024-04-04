@@ -13,6 +13,24 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
+![](https://github.com/aouazad/Website/blob/8150868edcd41689ba72794851e83f3df39d3890/pics/cbc_logo.png?raw=true){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Insurers and claimants under strain as weather-related disasters mount in B.C.
+[Link to the article](https://www.cbc.ca/news/canada/british-columbia/cold-millions-insurance-damages-1.7142869)
+By Shaurya K Kshatri, Published March 17, 2024
+:::
+  
+:::
+
+Interviewed about British Columbia's budget, which includes funding for ex-post recovery (part of the DFAA payments that come from both the province and the federal government), adaptation to future risks, and helping in the transition to a greener economy.
+
+____
+
+::: columns
+
+::: {.column width="25%"}
 ![](http://www.ouazad.com/resources/NYT.png){width=150px}
 :::
   
