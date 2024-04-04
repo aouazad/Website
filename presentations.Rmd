@@ -12,6 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
+Freddie Mac (Federal Home Loan Mortgage Corporation), June, Washington DC.
+
+NYU Stern Climate Finance Conference, May 31st, New York City.
+
+American Real Estate and Urban Economics Association, National Meeting, Washington DC.
+
 University of Wisconsin-Madison.
 
 Discussions and chair: 2x American Economic Association. Association of Environmental and Resource Economists and American Real Estate and Urban Economics Association.
