@@ -6,13 +6,13 @@ body {
 text-align: justify}
 </style>
 
-Associate Professor in the Department of Finance and Economics at Rutgers Business School, New Jersey.
+Associate Professor in the Department of Economics at HEC Montreal, Canada.
 
 ___
 ::: columns
 
 :::: {.column width="80%"}
-> I am Associate professor at [Rutgers Business School](https://www.business.rutgers.edu/)'s Department of Finance and Economics, on leave from my position at [HEC Montréal](https://www.hec.ca/en/) until 2024. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative. 
+> I am Associate professor at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html)'s Department of Economics. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). Previously I was an associate professor at Ecole polytechnique, France, an associate professor at Rutgers Business School, New Jersey, and an assistant professor at INSEAD, Fontainebleau. In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative. 
 ::::
 
 :::: {.column width="20%"}
