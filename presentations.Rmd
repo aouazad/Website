@@ -8,9 +8,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
 
+## 2025
+
+---
+
+American Finance Association, San Francisco.
+
+Econometric Society, San Francisco.
+
 ## 2024
 
 ---
+
+FHFA Econ Summit, Washington DC, November.
+
+Annual meeting of the Urban Economics Association, Washington DC, September.
+
+UC Riverside Workshop on Energy and the Climate Transition, September.
 
 Freddie Mac (Federal Home Loan Mortgage Corporation), June, Washington DC.
 
