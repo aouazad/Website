@@ -43,7 +43,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
