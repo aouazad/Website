@@ -22,9 +22,7 @@ ___
 :::
 
 <center><p>
-```{r, out.height = "400px", echo = FALSE}
-knitr::include_graphics("https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true")
-```
+![](https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true){width=50%}
 </p>
 <p>Speaking at the MIT Center for Real Estate with Bill Wheaton and Jacques Gordon </p> </center>
 
