@@ -12,7 +12,7 @@ ___
 ::: columns
 
 :::: {.column width="80%"}
-> I am Associate professor at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html)'s Department of Economics. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). Previously I was an associate professor at Ecole polytechnique, France, an associate professor at Rutgers Business School, New Jersey, and an assistant professor at INSEAD, Fontainebleau. In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative. 
+> I am Associate professor at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html)'s Department of Economics. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). Previously I was an associate professor at Ecole polytechnique, France, an associate professor at Rutgers Business School, New Jersey, and an assistant professor at INSEAD, Fontainebleau. In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative.  [Email me](mailto:amine.ouazad@hec.ca)
 ::::
 
 :::: {.column width="20%"}
@@ -70,7 +70,5 @@ My previous research on the economics of education has helped me teach very dive
 </center>
 
 Previously I was an associate professor at HEC Montréal, Ecole polytechnique, Paris, an assistant professor at INSEAD, where I taught on the Asia, Europe, and Middle East campuses, in the EMBA, MBA, PhD programs.
-
-[Download my CV](https://www.dropbox.com/s/7bxko0colym49wg/1_CV%20-%20Amine%20Ouazad%20-%20Feb%202022.pdf?dl=0) , [Email me](mailto:amine.ouazad@hec.ca)
 
 
