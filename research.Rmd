@@ -90,11 +90,27 @@ Amine Ouazad, Matthew E Kahn, _The Review of Financial Studies_, 2022.
 
 Using the government-sponsored enterprises’ sharp securitization rules, this paper provides evidence that, in the aftermath of natural disasters, lenders are more likely to approve mortgages that can be securitized, thereby transferring climate risk. The identification strategy uses the time-varying conforming loan limits above which the government-sponsored enterprises do not securitize mortgages. Natural disasters lead to more securitization right below the limit, suggesting an increased option value of securitization. A model identified using indirect inference simulates increasing disaster risk without GSEs. Mortgage credit supply would decline in flood zones and lenders would have a greater incentive to screen mortgages.
 
-[Archive with source code](https://www.dropbox.com/s/johh3u0y2b3wwz9/workflow_zipped.zip?dl=0)
+[GitHub Repo with source code](https://github.com/aouazad/Ouazad_Kahn_2022)
 
 ____
 
 ::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Ouazad and Kahn (2022) Replicates: A Detailed Analysis of LLPW (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950851)
+Amine Ouazad, Matthew E Kahn, May 12, 2023.
+
+:::
+
+:::
+
+Climate change poses new risks for real estate assets. Given that the majority of home buyers use a loan to pay for their homes and the majority of these loans are purchased by the Government Sponsored Enterprises (GSEs), it is important to understand how rising natural disaster risk affects the mortgage finance market. The climate securitization hypothesis (CSH) posits that, in the aftermath of natural disasters, lenders strategically react to the GSEs conforming loan securitization rules that create incentives that foster both moral hazard and adverse selection effects. The climate risks bundled into GSE mortgage-backed securities emerge because of the complex securitization chain that creates weak monitoring and screening incentives. We survey the recent theoretical literature and empirical literature exploring screening incentive effects. Using regression discontinuity methods, we test key hypotheses presented in the securitization literature with a focus on securitization dynamics immediately after major hurricanes. Our evidence supports the CSH. We address the data construction issues posed by LaCour-Little et. al. and show that their concerns do not affect our main results. Under the current rules of the game, climate risks exacerbates the established lemons problem commonly found in loan securitization markets.
+
+[GitHub Archive](https://github.com/aouazad/Ouazad_Kahn_2022)
 
 ::: {.column width="25%"}
 ![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
