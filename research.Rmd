@@ -22,22 +22,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
-## [Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699361) 
-January 2024.
+## [Time Consistent Infrastructure Investments: Optimal Flood Protection Policies in Spatial Equilibrium](https://www.nber.org/papers/w33333) 
+January 2025.
 
 :::
 
 :::
 
-Presentations: Econometric Society, North American Meeting in San Francisco 2025. Urban Economics Association in Washington DC 2024.
+Presentations: Wharton School of Business, Urban Economics Association, MIT Center for Real Estate, Wisconsin School of Business, University of Wisconsin-Madison.  
 
-Discrete choice models with social interactions or spillovers may exhibit multiple equilibria. This paper provides a systematic approach to enumerating them for a quantitative spatial model with discrete locations, social interactions, and elastic housing supply. The approach relies on two homotopies. A homotopy is a smooth function that transforms the solutions of a simpler city where solutions are known, to a city with heterogeneous locations and finite supply elasticity. The first homotopy is that, in the set of cities with perfectly elastic floor surface supply, an economy with heterogeneous locations is homotopic to an economy with homogeneous locations, whose solutions can be comprehensively enumerated. Such an economy is epsilon close to an economy whose equilibria are the zeros of a system of polynomials. This is a well-studied area of mathematics where the enumeration of equilibria can be guaranteed. The second homotopy is that a city with perfectly elastic housing supply is homotopic to a city with an arbitrary supply elasticity. In a small number of cases, the path may bifurcate and a single path yields two or more equilibria. By running the method on thousands of cities, we obtain a large number of equilibria. Each equilibrium has different population distributions. We provide a method that is computationally feasible for economies with a large number of locations choices, with an empirical application to the City of Chicago. There exist multiple "counterfactual Chicagos" consistent with the estimated parameters. Population distribution, prices, and welfare are not uniquely pinned down by amenities. The paper's method can be applied to models in trade and IO. Further applications of algebraic geometry are suggested.
+Place-based investments can have unintended general equilibrium effects and face challenges of time inconsistency. This paper simulates the granular impact of alternative spatial and temporal designs of such investments, using Quantitative Spatial Models where the strategy of the policymaker is endogenized, with time-consistent policy analysis or policies with commitment. It can apply to sunk, fixed costs investments in transportation infrastructure, levees, and other location-based investments. Applying this framework to the 1936 Flood Control Act, the largest investment in flood control infrastructure in US history protecting 5% of land, the study examines the general equilibrium effects of levee investments on housing prices, population density, and racial demographics over eight decades. Protected neighborhoods initially had lower property values, higher minority shares, and greater flood risk, but experienced sustained property appreciation and changes in population density. Structural analysis reveals that optimal levee designs prioritize high-density areas, reduce price capitalization, and minimize urban sprawl. Policymakers who cannot commit to long-term plans tend to overbuild and maintain larger systems compared to those with time-consistent strategies.
 
 ____
+
 
 
 ::: columns
@@ -65,6 +66,30 @@ ____
   allow="encrypted-media"
   width="960" height="540"></iframe>
 
+
+____
+
+::: columns
+
+::: {.column width="25%"}
+![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+:::
+
+::: {.column width="75%"}
+## [Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699361) 
+January 2024.
+
+:::
+
+:::
+
+Presentations: Econometric Society, North American Meeting in San Francisco 2025. Urban Economics Association in Washington DC 2024.
+
+Discrete choice models with social interactions or spillovers may exhibit multiple equilibria. This paper provides a systematic approach to enumerating them for a quantitative spatial model with discrete locations, social interactions, and elastic housing supply. The approach relies on two homotopies. A homotopy is a smooth function that transforms the solutions of a simpler city where solutions are known, to a city with heterogeneous locations and finite supply elasticity. The first homotopy is that, in the set of cities with perfectly elastic floor surface supply, an economy with heterogeneous locations is homotopic to an economy with homogeneous locations, whose solutions can be comprehensively enumerated. Such an economy is epsilon close to an economy whose equilibria are the zeros of a system of polynomials. This is a well-studied area of mathematics where the enumeration of equilibria can be guaranteed. The second homotopy is that a city with perfectly elastic housing supply is homotopic to a city with an arbitrary supply elasticity. In a small number of cases, the path may bifurcate and a single path yields two or more equilibria. By running the method on thousands of cities, we obtain a large number of equilibria. Each equilibrium has different population distributions. We provide a method that is computationally feasible for economies with a large number of locations choices, with an empirical application to the City of Chicago. There exist multiple "counterfactual Chicagos" consistent with the estimated parameters. Population distribution, prices, and welfare are not uniquely pinned down by amenities. The paper's method can be applied to models in trade and IO. Further applications of algebraic geometry are suggested.
+
+____
+
+
 ------------------------------------------------------------------------
 
 ### **Publications**
@@ -84,13 +109,15 @@ ____
 ## [Mortgage Finance and Climate Change: Securitization Dynamics in the Aftermath of Natural Disasters](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhab124/6427560)
 Amine Ouazad, Matthew E Kahn, _The Review of Financial Studies_, 2022.
 
+Cited by the Economic Report of the President, the New York Times, the Congressional Budget Office, the Wall Street Journal, Bloomberg, the Financial Times, the Commodity Futures Trading Commission, and many others.
+
 :::
 
 :::
 
 Using the government-sponsored enterprises’ sharp securitization rules, this paper provides evidence that, in the aftermath of natural disasters, lenders are more likely to approve mortgages that can be securitized, thereby transferring climate risk. The identification strategy uses the time-varying conforming loan limits above which the government-sponsored enterprises do not securitize mortgages. Natural disasters lead to more securitization right below the limit, suggesting an increased option value of securitization. A model identified using indirect inference simulates increasing disaster risk without GSEs. Mortgage credit supply would decline in flood zones and lenders would have a greater incentive to screen mortgages.
 
-[GitHub Repo with source code](https://github.com/aouazad/Ouazad_Kahn_2022)
+[GitHub Repo with source code and data](https://github.com/aouazad/Ouazad_Kahn_2022)
 
 ____
 
@@ -102,7 +129,7 @@ ____
 
 ::: {.column width="75%"}
 ## [Ouazad and Kahn (2022) Replicates: A Detailed Analysis of LLPW (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950851)
-Amine Ouazad, Matthew E Kahn, May 12, 2023.
+Amine Ouazad, Matthew E Kahn, October, 2024.
 
 :::
 
@@ -110,7 +137,11 @@ Amine Ouazad, Matthew E Kahn, May 12, 2023.
 
 Climate change poses new risks for real estate assets. Given that the majority of home buyers use a loan to pay for their homes and the majority of these loans are purchased by the Government Sponsored Enterprises (GSEs), it is important to understand how rising natural disaster risk affects the mortgage finance market. The climate securitization hypothesis (CSH) posits that, in the aftermath of natural disasters, lenders strategically react to the GSEs conforming loan securitization rules that create incentives that foster both moral hazard and adverse selection effects. The climate risks bundled into GSE mortgage-backed securities emerge because of the complex securitization chain that creates weak monitoring and screening incentives. We survey the recent theoretical literature and empirical literature exploring screening incentive effects. Using regression discontinuity methods, we test key hypotheses presented in the securitization literature with a focus on securitization dynamics immediately after major hurricanes. Our evidence supports the CSH. We address the data construction issues posed by LaCour-Little et. al. and show that their concerns do not affect our main results. Under the current rules of the game, climate risks exacerbates the established lemons problem commonly found in loan securitization markets.
 
-[GitHub Archive](https://github.com/aouazad/Ouazad_Kahn_2022)
+[GitHub Repo with source code and data](https://github.com/aouazad/Ouazad_Kahn_2022)
+
+____
+
+::: columns
 
 ::: {.column width="25%"}
 ![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
@@ -126,7 +157,7 @@ Amine Ouazad, Matthew E Kahn, May 12, 2023.
 
 Climate change poses new risks for real estate assets. Given that the majority of home buyers use a loan to pay for their homes and the majority of these loans are purchased by the Government Sponsored Enterprises (GSEs), it is important to understand how rising natural disaster risk affects the mortgage finance market. The climate securitization hypothesis (CSH) posits that, in the aftermath of natural disasters, lenders strategically react to the GSEs conforming loan securitization rules that create incentives that foster both moral hazard and adverse selection effects. The climate risks bundled into GSE mortgage-backed securities emerge because of the complex securitization chain that creates weak monitoring and screening incentives. We survey the recent theoretical literature and empirical literature exploring screening incentive effects. Using regression discontinuity methods, we test key hypotheses presented in the securitization literature with a focus on securitization dynamics immediately after major hurricanes. Our evidence supports the CSH. We address the data construction issues posed by LaCour-Little et. al. and show that their concerns do not affect our main results. Under the current rules of the game, climate risks exacerbates the established lemons problem commonly found in loan securitization markets.
 
-[GitHub Archive](https://github.com/aouazad/Mortgage-Securitization-Natural-Disasters-Reply)
+[GitHub Repo with source code and data](https://github.com/aouazad/Mortgage-Securitization-Natural-Disasters-Reply)
 
 ____
 
