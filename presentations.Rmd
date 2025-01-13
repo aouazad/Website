@@ -14,9 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
+Urban Economics Association, Berlin.
+
 American Finance Association, San Francisco.
 
 Econometric Society, San Francisco.
+
+American Real Estate and Urban Economics Associaton.
 
 ## 2024
 
