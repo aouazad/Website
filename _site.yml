@@ -12,8 +12,6 @@ navbar:
       href: presentations.html
     - text: "Media"
       href: media_urban_economics.html
-    - text: "Maps"
-      href: maps.html
   right:
     - icon: ion-social-twitter
       text: "@amine_ouazad"
