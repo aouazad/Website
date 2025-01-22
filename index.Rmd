@@ -12,7 +12,7 @@ ___
 ::: columns
 
 :::: {.column width="80%"}
-> I am Associate professor at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html)'s Department of Economics. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). Previously I was an associate professor at Ecole polytechnique, France, an associate professor at Rutgers Business School, New Jersey, and an assistant professor at INSEAD, Fontainebleau. In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative.  [Email me](mailto:amine.ouazad@hec.ca)
+> I am Associate professor at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html)'s Department of Economics. My research was cited in [Congressional hearings](https://youtu.be/c9lrud-Uaok?t=2610), in the Financial Times, Wall Street Journal, New York Times, CBS, Bloomberg, Politico, etc.  I serve on the [scientific](https://www.areuea.org/international) and [awards committees](https://www.areuea.org/awards-committee) of the American Real Estate and Urban Economics Association, and the scientific committee of the [Urban Economics Association](https://urbaneconomics.org/meetings/). Previously I was an associate professor at Ecole polytechnique, France, an associate professor at Rutgers Business School, New Jersey, and an assistant professor at INSEAD, Fontainebleau. In April 2020, I was appointed DLA Piper Distinguished Visiting Professor of Economics at Johns Hopkins University. I was a Senior Fellow of Johns Hopkins' 21st Century Cities Initiative. I taught over 5,000 students, mostly executives, across Canada, the United Kingdom, France, Singapore, South Africa, and the United Arab Emirates, in the EMBA, MBA, PhD, MSc, undergraduate programs. [Email me](mailto:amine.ouazad@hec.ca) 
 ::::
 
 :::: {.column width="20%"}
@@ -21,17 +21,27 @@ ___
 
 :::
 
-<center><p>
-![](https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true){width=50%}
-</p>
-<p>[Speaking at the MIT Center for Real Estate with Bill Wheaton and Jacques Gordon](https://cre.mit.edu/events/mit-climate-and-real-estate-initiative-inaugural-symposium/)</p> </center>
-
-My research interests span finance, climate risk, urban economics, real estate.
-
-I taught (and perhaps mostly learnt from !) over 5,000 students, mostly executives, across Canada, the United Kingdom, France, Singapore, South Africa, and the United Arab Emirates, in the EMBA, MBA, PhD, MSc, undergraduate programs.
 
 <center>
-![A distinguished MBA Cohort celebrating my love of white shirts](http://www.ouazad.com/resources/INSEAD_MBA_classroom_pic.jpeg){width=500px}
+::: columns
+
+:::: {.column width="45%"}
+![Speaking at the MIT Center for Real Estate with Bill Wheaton and Jacques Gordon](https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true)
+::::
+
+:::: {.column width="10%"}
+\
+::::
+
+:::: {.column width="45%"}
+![Celebrating the end of the MBA core course](http://www.ouazad.com/resources/INSEAD_MBA_classroom_pic.jpeg)
+::::
+
+:::
+</center>
+
+<center>
+<iframe src="https://policyandthemarkets.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </center>
 
 
