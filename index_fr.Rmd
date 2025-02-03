@@ -23,12 +23,22 @@ ___
 
 :::
 
-Mes intérêts de recherche couvrent la finance, les risques climatiques, l'économie urbaine, l'immobilier et la justice sociale.
-
-Mes recherches antérieures sur l’économie de l’éducation m’ont aidé à enseigner dans des classes très diverses. J'ai enseigné (et peut-être surtout appris de !) plus de 5 000 étudiants, surtout des cadres, à travers le Canada, le Royaume-Uni, la France, Singapour, l'Afrique du Sud et les Émirats arabes unis, dans les programmes EMBA, MBA, PhD, MSc, 1er cycle.
-
 <center>
-![Une cohorte distinguée de MBA célébrant mon amour des chemises blanches](http://www.ouazad.com/resources/INSEAD_MBA_classroom_pic.jpeg){width=500px}
+::: columns
+
+:::: {.column width="45%"}
+![Conférence au MIT Center for Real Estate avec Bill Wheaton et Jacques Gordon](https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true)
+::::
+
+:::: {.column width="10%"}
+\
+::::
+
+:::: {.column width="45%"}
+![Célébration de la fin d'un cours du MBA](http://www.ouazad.com/resources/INSEAD_MBA_classroom_pic.jpeg)
+::::
+
+:::
 </center>
 
 
