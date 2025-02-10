@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
+Panelist at Chicago Fed Economic Project, "The Impact of Public and Private Funding Availability Following a Natural Disaster," Wednesday, March 5, 2025.
+
 Urban Economics Association, Berlin.
 
 American Finance Association, San Francisco.
