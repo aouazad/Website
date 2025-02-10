@@ -13,9 +13,12 @@ navbar:
     - text: "Media"
       href: media_urban_economics.html
   right:
-    - icon: ion-social-twitter
-      text: "@amine_ouazad"
-      href: https://twitter.com/amine_ouazad
+    - icon: ion-merge
+      text: "GitHub"
+      href: https://github.com/aouazad 
+    - icon: ion-ios-compose
+      text: "Substack"
+      href: https://policyandthemarkets.substack.com/
     - icon: ion-social-linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/aouazad/
