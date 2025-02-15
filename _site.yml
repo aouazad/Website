@@ -22,6 +22,9 @@ navbar:
     - icon: ion-social-linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/aouazad/
+    - icon: ion-cloud
+      text: "Bluesky"
+      href: https://bsky.app/profile/amineouazad.bsky.social
 output:
   html_document:
     theme: readable
