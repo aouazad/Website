@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-Panelist at Chicago Fed Economic Project, "The Impact of Public and Private Funding Availability Following a Natural Disaster," Wednesday, March 5, 2025.
+Panelist at Chicago Fed, "The Impact of Public and Private Funding Availability Following a Natural Disaster," with Daniel Hartley, Kristen Broady, Ben Keys, Ralf Meisenzahl. Wednesday, March 5, 2025.
 
 Urban Economics Association, Berlin.
 
