@@ -7,6 +7,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+::: columns
+
+::: {.column width="25%"}
+![](https://github.com/aouazad/Website/blob/8150868edcd41689ba72794851e83f3df39d3890/pics/cbc_logo.png?raw=true){width=150px}
+:::
+  
+::: {.column width="75%"}
+## Mortgage Regulators Are Shrugging Off Climate Risk. It Could Cost Taxpayers Billions.
+[Link to the article](
+https://www.nytimes.com/2024/12/07/business/economy/mortgages-climate-risk-fannie-freddie.html)
+By  Lydia DePillis, Published December 7, 2024.
+:::
+  
+:::
+
+Fannie Mae and Freddie Mac, which backstop most U.S. mortgages, know floods and fires are a growing problem. But little action has been taken.
+
 ___
 
 
