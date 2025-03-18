@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ::: columns
 
 ::: {.column width="25%"}
-![](https://github.com/aouazad/Website/blob/8150868edcd41689ba72794851e83f3df39d3890/pics/cbc_logo.png?raw=true){width=150px}
+![](http://www.ouazad.com/resources/NYT.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -23,6 +23,8 @@ By  Lydia DePillis, Published December 7, 2024.
 :::
 
 Fannie Mae and Freddie Mac, which backstop most U.S. mortgages, know floods and fires are a growing problem. But little action has been taken.
+
+More on Fannie Mae's lobbying campaign on my climate change research [here](https://policyandthemarkets.substack.com/p/climate-change-is-the-new-tobacco).
 
 ___
 
