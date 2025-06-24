@@ -14,6 +14,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
+Toronto Climate Economics Meeting, organized by Jeffrey Sun and Stephan Heiblich.
+
+Inaugural Climate Finance Conference, UM6P, organized by UBC's Ali Lazrak and Bilal Islah.
+
+Urban Economics Meeting, Rotman School of Business, organized by William Strange.
+
 Panelist at the Federal Reserve of Chicago, "The Impact of Public and Private Funding Availability Following a Natural Disaster," with Daniel Hartley, Kristen Broady, Ben Keys, Ralf Meisenzahl. Wednesday, March 5, 2025.
 
 <iframe src='https://players.brightcove.net/4934638106001/Sk7cO8ZDB_default/index.html?videoId=6369648226112' 
@@ -29,7 +35,7 @@ American Finance Association, San Francisco.
 
 Econometric Society, San Francisco.
 
-American Real Estate and Urban Economics Associaton.
+American Real Estate and Urban Economics Association.
 
 ## 2024
 
