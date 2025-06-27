@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-Toronto Climate Economics Meeting, organized by Jeffrey Sun and Stephan Heiblich.
+Toronto Climate Economics Meeting, organized by Jeffrey Sun and Stephan Heiblich. [Slides](https://www.dropbox.com/scl/fi/u97fenhum1k57bgxjknp9/presentation.pdf?rlkey=fr8frnr33g5uztu5wn2g1wlhe&dl=0)
 
 Inaugural Climate Finance Conference, UM6P, organized by UBC's Ali Lazrak and Bilal Islah. [Slides](https://www.dropbox.com/scl/fi/r7zfk6q8wyoy86swuh8fp/slides.pdf?rlkey=pi6h64h5qh0yqpqdbjv6uqmvc&dl=0)
 
