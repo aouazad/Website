@@ -10,6 +10,8 @@ navbar:
       href: research.html
     - text: "Talks"
       href: presentations.html
+    - text: "Discussions"
+      href: discussions.html
     - text: "Media"
       href: media_urban_economics.html
   right:

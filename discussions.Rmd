@@ -1,0 +1,32 @@
+---
+title: "Discussions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+
+Discussion of ``How Are Insurance Markets Adapting to Climate Change? Risk Classification and Pricing in the Market for Homeowners Insurance'' by Judson Boomhower, Meredith Fowlie, Jacob Gellman and Andrew Plantinga at the Toronto Meeting in the Economics of Climate Change [Slides](https://www.dropbox.com/scl/fi/2be3brl4h0jy8hsq4fgpl/Discussion.pptx?rlkey=4ce8b7jm9qynp4j8mqq1f0gwp&dl=0)
+
+Discussion of ``The Optimal Design of Climate Agreements Inequality, Trade, and Incentives for Climate Policy'' by Thomas Bourany [Slides](https://www.dropbox.com/scl/fi/ellbw1xkwvu6j0e7ij77x/discussion.pdf?rlkey=yi26y0kr6snw0rbbblvg61jgi&dl=0)
+
+Discussion of ``California wildfires, Property Damage, and Mortgage Repayment'' by Biswas, Hossein and Zink at the Office of the Comptroller of the Currency [Slides](https://www.dropbox.com/scl/fi/4r58tw6ejtsj2ms1t86o3/discussion_OCC_2023.pdf?rlkey=3n9oudefidu8dg03x9smyrs7u&dl=0)
+
+Discussion of ``A Closed-form Pricing Solution for
+Options on Assets with Pricing Errors'' by Louis R. Piccotti at the Eastern Finance Association [Slides](https://www.dropbox.com/scl/fi/nkmnmg0en1zmseabiardd/discussion_options.pdf?rlkey=368gi6hxswgyid3poxkn1r8lq&dl=0). The paper was published in the [Journal of Financial Research](https://onlinelibrary.wiley.com/doi/10.1111/jfir.12473?af=R)
+
+Discussion of ``Yellow Light Foreclosures: Collateral Enforcement and the Sale of Delinquent Debt'' by Taha Ahsin at the Eastern Finance Association [Slides](https://www.dropbox.com/scl/fi/kipleftpawqu1agqvb9h4/discussion_mortgages.pdf?rlkey=2wnwtn2t6stqj4priu2a8oeba&dl=0)
+
+Discussion of ``The Geography Channel of House Price Appreciation'' by Greg Howard at the Urban Economics Association [Slides](https://www.dropbox.com/scl/fi/8fw3ni6qwzifj6b3qtee6/discussion_uea.pdf?rlkey=ioisdte646g8npdlylp2n1woc&dl=0)
+
+Discussion of ``Mortgage markets with climate-change risk: Evidence
+from wildfires in California'' by Issler, Stanton, Vergara-Alert, Wallace  at the Bank of Canada [Slides](https://www.dropbox.com/scl/fi/bul7q9z3ec6qlmzh7w9zp/discussion_BoC.pdf?rlkey=7n2wohgcx1514es8n7hm0mk9r&dl=0)
+
+Discussion of ``Destruction, Policy, and the Evolving Consequences of Washington, DC’s 1968 Civil Disturbance'' by Brooks, Rose, Veuger at the Federal Reserve of Philadelphia [Slides](https://www.dropbox.com/scl/fi/41ibbsa0ame6ugi1vvuc4/discussion.pdf?rlkey=7l8blx9owcv0ea33t6ryfgugi&dl=0)
+
+Discussion of ``Pricing of Climate Risk Insurance:
+Regulatory Frictions and Cross-Subsidies'' by Sangmin S. Oh, Ishita Sen, and Ana-Maria Tenekedjieva at the meeting of the American Real Estate and Urban Economics Association [Slides](https://www.dropbox.com/scl/fi/x3g15bdbwt32iyvno3zy3/Discusssion_AREUEA_Pricing_Insurance.pdf?rlkey=1q22jysqppdzsdu7a5yf0d4hz&dl=0)
+
+
