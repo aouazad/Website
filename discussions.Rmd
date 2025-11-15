@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
 
+Discussion of ``Housing Returns over the Income Distribution'' by Claes Backman, Walter d'Lima, Natalia Kohorunzhina (Copenhagen Business School). [Slides and code package for replication](https://www.dropbox.com/scl/fi/u2pbx6yf8cd4om406c43n/2025_CEAR_RSI.zip?rlkey=st3sudzwm5k76tg2sb896sn5h&st=qgeow5en&dl=0)
+
 Discussion of ``How Are Insurance Markets Adapting to Climate Change? Risk Classification and Pricing in the Market for Homeowners Insurance'' by Judson Boomhower, Meredith Fowlie, Jacob Gellman and Andrew Plantinga at the Toronto Meeting on the Economics of Climate Change [Slides](https://www.dropbox.com/scl/fi/2be3brl4h0jy8hsq4fgpl/Discussion.pptx?rlkey=4ce8b7jm9qynp4j8mqq1f0gwp&dl=0)
 
 Discussion of ``The Optimal Design of Climate Agreements Inequality, Trade, and Incentives for Climate Policy'' by Thomas Bourany [Slides](https://www.dropbox.com/scl/fi/ellbw1xkwvu6j0e7ij77x/discussion.pdf?rlkey=yi26y0kr6snw0rbbblvg61jgi&dl=0)
