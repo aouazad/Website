@@ -127,7 +127,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](pics/SSRN_logo.png){width=150px}
+![](pics/SSRN_logo.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
