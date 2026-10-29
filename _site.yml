@@ -1,9 +1,7 @@
 name: "amine-charles-louis-ouazad-website"
 navbar:
-  title: "Amine C-L. Ouazad"
+  title: "Welcome"
   left:
-    - text: "EN"
-      href: index.html
     - text: "FR"
       href: index_fr.html
     - text: "Research"
