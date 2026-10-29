@@ -45,7 +45,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+![](pics/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -73,7 +73,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+![](pics/SSRN_logo.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -105,7 +105,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/RFS_cover.png){width=150px}
+![](pics/RFS_cover.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -127,7 +127,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+![](pics/SSRN_logo.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -147,7 +147,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/SSRN_logo.png){width=150px}
+![](pics/SSRN_logo.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -167,7 +167,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/JET_cover.jpeg){width=150px}
+![](pics/JET_cover.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -186,7 +186,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/JEEA_cover.jpg){width=150px}
+![](pics/JEEA_cover.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -207,7 +207,7 @@ This paper matches a comprehensive Danish employer-employee data set with indivi
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/IER_cover.jpg){width=150px}
+![](pics/IER_cover.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -227,7 +227,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/RESTAT_cover.png){width=150px}
+![](pics/RESTAT_cover.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -247,7 +247,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/TAR_cover.png){width=150px}
+![](pics/TAR_cover.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -267,7 +267,7 @@ We use quantile regressions to evaluate the higher moments of future earnings. F
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/HDBK_cover.jpeg){width=150px}
+![](pics/HDBK_cover.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -288,7 +288,7 @@ ____
 ::: columns
 
 :::{.column width="25%"}
-![](http://www.ouazad.com/resources/SPRINGER.jpeg){width=150px}
+![](pics/SPRINGER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -307,7 +307,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/JPUBE_cover.jpeg){width=150px}
+![](pics/JPUBE_cover.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -326,7 +326,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/OBES_cover.jpg){width=150px}
+![](pics/OBES_cover.jpg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -344,7 +344,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/EFP_cover.png){width=150px}
+![](pics/EFP_cover.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -366,7 +366,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+![](pics/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -385,7 +385,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+![](pics/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -405,7 +405,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NBER.jpeg){width=150px}
+![](pics/NBER.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -427,7 +427,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Arxiv.png){width=150px}
+![](pics/Arxiv.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -445,7 +445,7 @@ Prior literature has argued that flood insurance maps may not capture the extent
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Brookings.jpeg){width=150px}
+![](pics/Brookings.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
