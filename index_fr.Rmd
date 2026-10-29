@@ -28,32 +28,15 @@ ___
 > <p> Mes recherches portent sur l'économie urbaine et immobilière. Je dirige le cursus d'économie urbaine et immobilière à HEC Montréal. </p>
 > <p> 📍 J'ai servi de nombreuses années dans le [comité scientifique](https://www.areuea.org/international) et des [comités de récompenses](https://www.areuea.org/awards-committee) de l'American Real Estate and Urban Economics Association, et le comité scientifique de l'[Urban Economics Association](https://urbannomics.org/meetings/). </p>
 > <p> 📍 Mes recherches ont été citées durant des [auditions du Congrès](https://youtu.be/c9lrud-Uaok?t=2610), à Radio Canada, CBC Radio 1, La Presse, dans le Financial Times, le Wall Street Journal, le New York Times, CBS , Bloomberg, Politico, etc. </p>
-> <p> 📍 Mes postes précédents incluent: professeur agrégé à l'École polytechnique, France, professeur agrégé à Rutgers Business School dans le New Jersey, et professeur adjoint à l'INSEAD, Fontainebleau.Je suis diplômé de l'[École polytechnique](https://www.polytechnique.edu/), de l'École des Hautes Études en Sciences Sociales (Économie de Paris), de la London School of Economics (European Doctoral Program in Quantitative Economics). </p>
+> <p> 📍 Mes postes précédents incluent: professeur agrégé à l'École polytechnique, France, professeur agrégé à Rutgers Business School dans le New Jersey, et professeur adjoint à l'INSEAD, Fontainebleau.</p>
+> <p> 📍 Je suis diplômé de l'[École polytechnique](https://www.polytechnique.edu/), de l'École des Hautes Études en Sciences Sociales (Économie de Paris), de la London School of Economics (European Doctoral Program in Quantitative Economics). </p>
 ::::
 
 :::: {.column .headshot-col width="20%"}
 ![](pics/picture_2022.jpeg)
 ::::
-
+ 
 :::
-
-<center>
-::: columns
-
-:::: {.column width="45%"}
-![Conférence au MIT Center for Real Estate avec Bill Wheaton et Jacques Gordon](pics/MIT_talk.JPG)
-::::
-
-:::: {.column width="10%"}
-\
-::::
-
-:::: {.column width="45%"}
-![Célébration de la fin d'un cours du MBA](pics/INSEAD_MBA_classroom_pic.jpeg)
-::::
-
-:::
-</center>
 
 
 
