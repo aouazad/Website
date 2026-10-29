@@ -25,7 +25,7 @@ ___
 ::: columns
 
 :::: {.column width="45%"}
-![Conférence au MIT Center for Real Estate avec Bill Wheaton et Jacques Gordon](https://github.com/aouazad/Website/blob/09d5501bb74f82b370932c0225a1d6ce528d08f6/pics/MIT_talk.JPG?raw=true)
+![Conférence au MIT Center for Real Estate avec Bill Wheaton et Jacques Gordon](pics/MIT_talk.JPG)
 ::::
 
 :::: {.column width="10%"}
@@ -33,7 +33,7 @@ ___
 ::::
 
 :::: {.column width="45%"}
-![Célébration de la fin d'un cours du MBA](http://www.ouazad.com/resources/INSEAD_MBA_classroom_pic.jpeg)
+![Célébration de la fin d'un cours du MBA](pics/INSEAD_MBA_classroom_pic.jpeg)
 ::::
 
 :::
