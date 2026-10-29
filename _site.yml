@@ -14,6 +14,8 @@ navbar:
       href: discussions.html
     - text: "Media"
       href: media_urban_economics.html
+    - text: "Refereeing"
+      href: refereeing.html
   right:
     - icon: ion-merge
       text: "GitHub"

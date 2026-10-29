@@ -1,0 +1,25 @@
+---
+title: "Refereeing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+
+## Last 2 years
+
+- American Economic Review
+- American Economic Journal: Microeconomics
+- Journal of Finance
+- Management Science
+- Regional Science and Urban Economics
+- Real Estate Economics
+- Journal of Urban Economics
+- Journal of Political Economy
+- Journal of Political Economy: Microeconomics
+- Review of Economics and Statistics
+- Journal of European Economic Association
+- Canadian Public Policy
+

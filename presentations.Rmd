@@ -8,7 +8,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
 
+## 2026
 
+---
+
+Seminar of the American Real Estate and Urban Economics Association (AREUEA). [Link](https://www.areuea.org/virtual-seminar-series) Adaptation Using Financial Markets.
+
+Online Spatial and Urban Seminar (OSUS). [Link](https://osus.info/) The Eye of the Beholder, joint with Gorin, Gobillon, Heblich.
+
+University of Colorado, Boulder. [Link](https://calendar.colorado.edu/event/the-conference-on-infrastructure-resilience-sustainability)
+
+Indian Institute of Management, Bangalore. [Link](https://www.iimb.ac.in/node/675) The Flooded Metropolis, joint with Bearpark, Rode, Tandel.
+
+Discussion: Northern Finance Association. 
+
+Chair: Urban Economics Association, Mortgage Session, Barcelona.
 
 ## 2025
 
@@ -36,6 +50,8 @@ American Finance Association, San Francisco. [Slides](https://www.dropbox.com/sc
 Econometric Society, San Francisco. [Slides](https://www.dropbox.com/scl/fi/3pgtxrz05gej7zcj2l9oa/slides.pdf?rlkey=3f45e3l2bqhvu7htjt2wl58fs&dl=0)
 
 American Real Estate and Urban Economics Association.
+
+Canada Mortgage and Housing Corporation.
 
 ## 2024
 
