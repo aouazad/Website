@@ -2,14 +2,20 @@
 title: "Amine Ouazad"
 ---
 <style>
-.columns { display: flex; flex-wrap: wrap; gap: 1rem; }
-.column  { flex: 1 1 280px; }          /* wrap instead of squeezing */
+.columns { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; }
+.column  { flex: 1 1 320px; min-width: 0; }
+
+/* headshot: fixed size, never stretches */
+.headshot-col { flex: 0 0 180px; }
+.headshot-col img { width: 180px; max-width: 100%; height: auto; border-radius: 50%; }
+
+/* bottom photos: cap their height so they don't dominate */
 .column img { max-width: 100%; height: auto; }
 
 @media (max-width: 700px) {
-  .column { width: 100% !important; } /* override the 80% / 20% / 45% */
-  .headshot-col { order: -1; text-align: center; }
-  .headshot-col img { max-width: 180px; border-radius: 50%; }
+  .headshot-col { order: -1; flex: 0 0 100%; text-align: center; }
+  .headshot-col img { width: 140px; }
+  .column { flex-basis: 100%; }
 }
 </style>
 
@@ -29,7 +35,7 @@ ___
 > <p> 📍  Presented the new version of "Time Consistent Infrastructure Investments: Optimal Flood Protection Policies in Spatial Equilibrium", discussed by Meredith Fowlie and discussed her paper at the Toronto Climate Economics Meeting, organized by Stephan Heiblich. [Paper](https://www.nber.org/papers/w33333) [Slides](https://www.dropbox.com/scl/fi/c5h2ehppfg4hogh3toz6u/presentation_short.pdf?rlkey=khbdo43012pr9vigzkfb9u473&st=bb79q732&dl=0). </p>
 ::::
 
-:::: {.column width="20%"}
+:::: {.column .headshot-col width="20%"}
 ![](pics/picture_2022.jpeg)
 ::::
 

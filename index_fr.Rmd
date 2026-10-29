@@ -2,8 +2,21 @@
 title: "Amine Charles-Louis Ouazad"
 ---
 <style>
-body {
-text-align: justify}
+.columns { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; }
+.column  { flex: 1 1 320px; min-width: 0; }
+
+/* headshot: fixed size, never stretches */
+.headshot-col { flex: 0 0 180px; }
+.headshot-col img { width: 180px; max-width: 100%; height: auto; border-radius: 50%; }
+
+/* bottom photos: cap their height so they don't dominate */
+.column img { max-width: 100%; height: auto; }
+
+@media (max-width: 700px) {
+  .headshot-col { order: -1; flex: 0 0 100%; text-align: center; }
+  .headshot-col img { width: 140px; }
+  .column { flex-basis: 100%; }
+}
 </style>
 
 Professeur agrégé au Département d'Économie de HEC Montréal, Canada.
@@ -15,8 +28,8 @@ ___
 > Je suis professeur agrégé au Département d'Économie de [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html). Mes recherches ont été citées durant des [auditions du Congrès](https://youtu.be/c9lrud-Uaok?t=2610), à Radio Canada, CBC Radio 1, La Presse, dans le Financial Times, le Wall Street Journal, le New York Times, CBS , Bloomberg, Politico, etc. Je fais partie du [comité scientifique](https://www.areuea.org/international) et des [comités de récompenses](https://www.areuea.org/awards-committee) de l'American Real Estate and Urban Economics Association, et le comité scientifique de l'[Urban Economics Association](https://urbannomics.org/meetings/). Mes postes précédents incluent: professeur agrégé à l'École polytechnique, France, professeur agrégé à Rutgers Business School dans le New Jersey, et professeur adjoint à l'INSEAD, Fontainebleau. En avril 2020, j'ai été nommé professeur invité d'économie DLA Piper à l'Université Johns Hopkins, Baltimore. J'étais membre associé de l'Initiative des villes du 21e siècle de Johns Hopkins. Je suis diplômé de l'[École polytechnique](https://www.polytechnique.edu/). 
 ::::
 
-:::: {.column width="20%"}
-![](https://github.com/aouazad/Website/blob/83504bc3ab6ba51f486f503a4835bca6eefd32bc/pics/picture_2022.jpeg?raw=true)
+:::: {.column .headshot-col width="20%"}
+![](pics/picture_2022.jpeg)
 ::::
 
 :::

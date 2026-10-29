@@ -306,14 +306,20 @@ $(document).ready(function () {
 
 
 <style>
-.columns { display: flex; flex-wrap: wrap; gap: 1rem; }
-.column  { flex: 1 1 280px; }          /* wrap instead of squeezing */
+.columns { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; }
+.column  { flex: 1 1 320px; min-width: 0; }
+
+/* headshot: fixed size, never stretches */
+.headshot-col { flex: 0 0 180px; }
+.headshot-col img { width: 180px; max-width: 100%; height: auto; border-radius: 50%; }
+
+/* bottom photos: cap their height so they don't dominate */
 .column img { max-width: 100%; height: auto; }
 
 @media (max-width: 700px) {
-  .column { width: 100% !important; } /* override the 80% / 20% / 45% */
-  .headshot-col { order: -1; text-align: center; }
-  .headshot-col img { max-width: 180px; border-radius: 50%; }
+  .headshot-col { order: -1; flex: 0 0 100%; text-align: center; }
+  .headshot-col img { width: 140px; }
+  .column { flex-basis: 100%; }
 }
 </style>
 <p>Associate Professor in the Department of Economics at <a
@@ -386,7 +392,7 @@ href="https://www.nber.org/papers/w33333">Paper</a> <a
 href="https://www.dropbox.com/scl/fi/c5h2ehppfg4hogh3toz6u/presentation_short.pdf?rlkey=khbdo43012pr9vigzkfb9u473&amp;st=bb79q732&amp;dl=0">Slides</a>.
 </p>
 </blockquote>
-</div><div class="column" style="width:20%;">
+</div><div class="column headshot-col" style="width:20%;">
 <p><img src="pics/picture_2022.jpeg" /></p>
 </div>
 </div>

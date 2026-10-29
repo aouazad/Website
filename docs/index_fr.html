@@ -306,8 +306,21 @@ $(document).ready(function () {
 
 
 <style>
-body {
-text-align: justify}
+.columns { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; }
+.column  { flex: 1 1 320px; min-width: 0; }
+
+/* headshot: fixed size, never stretches */
+.headshot-col { flex: 0 0 180px; }
+.headshot-col img { width: 180px; max-width: 100%; height: auto; border-radius: 50%; }
+
+/* bottom photos: cap their height so they don't dominate */
+.column img { max-width: 100%; height: auto; }
+
+@media (max-width: 700px) {
+  .headshot-col { order: -1; flex: 0 0 100%; text-align: center; }
+  .headshot-col img { width: 140px; }
+  .column { flex-basis: 100%; }
+}
 </style>
 <p>Professeur agrégé au Département d’Économie de HEC Montréal,
 Canada.</p>
@@ -336,9 +349,8 @@ membre associé de l’Initiative des villes du 21e siècle de Johns
 Hopkins. Je suis diplômé de l’<a
 href="https://www.polytechnique.edu/">École polytechnique</a>.</p>
 </blockquote>
-</div><div class="column" style="width:20%;">
-<p><img
-src="https://github.com/aouazad/Website/blob/83504bc3ab6ba51f486f503a4835bca6eefd32bc/pics/picture_2022.jpeg?raw=true" /></p>
+</div><div class="column headshot-col" style="width:20%;">
+<p><img src="pics/picture_2022.jpeg" /></p>
 </div>
 </div>
 <center>
