@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ---
 
-## Last 2 years
+## Last 2 years (2025-2026)
 
 - American Economic Review
 - American Economic Journal: Microeconomics
