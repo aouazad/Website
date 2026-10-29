@@ -12,7 +12,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NYT.png){width=150px}
+![](pics/NYT.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -36,7 +36,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](https://github.com/aouazad/Website/blob/8150868edcd41689ba72794851e83f3df39d3890/pics/cbc_logo.png?raw=true){width=150px}
+![](pics/cbc_logo.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -55,7 +55,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](https://github.com/aouazad/Website/blob/5b47d336b2fae6fd62a4708718bf726ea309687a/pics/inside_mortgage_finance.jpeg?raw=true){width=150px}
+![](pics/inside_mortgage_finance.jpeg){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -82,7 +82,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NYT.png){width=150px}
+![](pics/NYT.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -100,7 +100,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NYT.png){width=150px}
+![](pics/NYT.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -122,7 +122,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/NYT.png){width=150px}
+![](pics/NYT.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -144,7 +144,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/HW.PNG){width=150px}
+![](pics/HW.PNG){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -161,7 +161,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/politico.png){width=150px}
+![](pics/politico.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -183,7 +183,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/politico.png){width=150px}
+![](pics/politico.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -205,7 +205,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/insidemortgagefinance.jpeg){width=150px}
+![](pics/inside_mortgage_finance.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -220,17 +220,14 @@ The economists used the government-sponsored enterprises’ conforming loan limi
 
 ____
 
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W_KyfItPRfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_KyfItPRfQ?si=3JZRwCl5umRhDIe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ___
 
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Climate_now.png){width=150px}
+![](pics/Climate_now.svg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -251,7 +248,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Bloomberg.png){width=150px}
+![](pics/Bloomberg.png){width=150px}
 :::
   
 ::: {.column width="75%"}
@@ -274,7 +271,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Vice_news.png){width=150px}
+![](pics/Vice_news.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -292,7 +289,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+![](pics/Citylab.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -310,7 +307,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/business_insider.PNG){width=150px}
+![](pics/business_insider.PNG){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -328,7 +325,7 @@ ____
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+![](pics/Citylab.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -345,7 +342,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Citylab.jpeg){width=150px}
+![](pics/Citylab.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -362,7 +359,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/Grist.png){width=150px}
+![](pics/Grist.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -381,7 +378,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/WSJ.jpeg){width=150px}
+![](pics/WSJ.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -397,7 +394,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/WP.png){width=150px}
+![](pics/WP.png){width=150px}
 :::
 
 ::: {.column width="75%"}
@@ -430,7 +427,7 @@ ___
 ::: columns
 
 ::: {.column width="25%"}
-![](http://www.ouazad.com/resources/WSJ.jpeg){width=150px}
+![](pics/WSJ.jpeg){width=150px}
 :::
 
 ::: {.column width="75%"}
