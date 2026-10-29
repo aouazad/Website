@@ -1,6 +1,17 @@
 ---
 title: "Amine Ouazad"
 ---
+<style>
+.columns { display: flex; flex-wrap: wrap; gap: 1rem; }
+.column  { flex: 1 1 280px; }          /* wrap instead of squeezing */
+.column img { max-width: 100%; height: auto; }
+
+@media (max-width: 700px) {
+  .column { width: 100% !important; } /* override the 80% / 20% / 45% */
+  .headshot-col { order: -1; text-align: center; }
+  .headshot-col img { max-width: 180px; border-radius: 50%; }
+}
+</style>
 
 Associate Professor in the Department of Economics at [HEC Montréal](https://www.hec.ca/en/profs/amine.ouazad.html), Canada.
 
